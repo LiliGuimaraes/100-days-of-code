@@ -1,5 +1,8 @@
-# I've joined the #100DaysOfCode Challenge.
+# I've joined the #100DaysOfCode Challenge.  
 
+Take a look to my first #100DaysOfCode project called [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching)  
+
+More about the #100DaysOfCode :  
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
