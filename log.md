@@ -20,7 +20,7 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Link(s) to work**: [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching/commit/731d2433db396182d91a3b86395d8a16cbf2e7fa)
 
 
-### Day 3: June 27, Monday
+### Day 3:
 
 **Today's Progress**: Finally in the must excite part of the project: builded a Twitter robot using #python to share the #webscrap result. Is interest, follow 'us' on [@RoBirdWatching](https://twitter.com/RoBirdWatching)
 
