@@ -8,7 +8,7 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Thoughts:** Amazed with sqlite3. Easy and fast!
 
-**Link to work:** [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching/commit/87fb3ef51fac1908d3409b16d6731e26559d46b5)
+**Link to work:** [Robot Bird Watching](https://github.com/FelipeSBarros/1stRoBirdWatchingModule/commit/87fb3ef51fac1908d3409b16d6731e26559d46b5)
 
 ### Day 2:
 ##### Enhencing [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching#robotwatching-project-100daysofcode)
@@ -17,7 +17,7 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Thoughts**: Good learning about pyhton tuples and list
 
-**Link(s) to work**: [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching/commit/731d2433db396182d91a3b86395d8a16cbf2e7fa)
+**Link(s) to work**: [Robot Bird Watching](https://github.com/FelipeSBarros/1stRoBirdWatchingModule/commit/731d2433db396182d91a3b86395d8a16cbf2e7fa)
 
 
 ### Day 3:
@@ -26,7 +26,7 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Thoughts** Used a nice, interesting and easy-to-use module #python-twitter
 
-**Link(s) to work**: [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching/commit/f693ec2ac4cd6cef2c9636e660df6b3a3585ac2c)
+**Link(s) to work**: [Robot Bird Watching](https://github.com/FelipeSBarros/1stRoBirdWatchingModule/commit/f693ec2ac4cd6cef2c9636e660df6b3a3585ac2c)
 
 
 ### Day 4:
@@ -35,7 +35,7 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Thoughts** From this excercise came new ideas of projects... I nI need to organize my self to identiy which worth develop... :)
 
-**Link(s) to work**: [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching/commit/57a3ed522078f9ebd6458c767c33579bd8ddd6ac)
+**Link(s) to work**: [Robot Bird Watching](https://github.com/FelipeSBarros/1stRoBirdWatchingModule/commit/c766e2658182b8ef1b700c9186efb84895e257c1)
 
 
 ### Day 5:
