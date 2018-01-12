@@ -43,3 +43,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Worked to put everything on a #Raspberry PI to leave running for a few days... Installed all dependecies and seems all fine! \0/
 
 **Link(s) to work**: [Robot Bird Watching](https://gist.github.com/FelipeSBarros/d4906903b44f6d44412cd85d60c25c2d)
+
+### Day 6: 11/01/2018
+
+**Today's Progress**: After a small vacation, organized all scripts and functions on a #raspberry pi. Now, while the raspberry pi in active, the [@RoBirdWatching](https://twitter.com/RoBirdWatching) will look if there is a new Doodle published by Google and share it on twitter at 6:30 am
+
+**Link(s) to work**: [Robot Bird Watching 1st Module](https://github.com/FelipeSBarros/1stRoBirdWatchingModule/commit/03efb02d1e6da83d817d65dba07d48f5934f1208)
