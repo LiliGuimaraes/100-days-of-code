@@ -49,3 +49,10 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: After a small vacation, organized all scripts and functions on a #raspberry pi. Now, while the raspberry pi in active, the [@RoBirdWatching](https://twitter.com/RoBirdWatching) will look if there is a new Doodle published by Google and share it on twitter at 6:30 am
 
 **Link(s) to work**: [Robot Bird Watching 1st Module](https://github.com/FelipeSBarros/1stRoBirdWatchingModule/commit/03efb02d1e6da83d817d65dba07d48f5934f1208)
+
+
+### Day 7: 12/01/2018
+
+**Today's Progress**: Stop the Robot Bird Watching for a while to work on a new and quick projet: build a chat bot on #telegram to manage to-do list. Learned a lot about Telegram API, build menu, etc. Was a long day working only on this project. This gave me new ideas for chat bot.
+
+**Link(s) to work**: [Telegram chatbot to-do list](https://github.com/FelipeSBarros/ToDoBot)
