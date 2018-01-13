@@ -56,3 +56,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Stopped the Robot Bird Watching for a while to work on a new and quick projet: build a chat bot on #telegram to manage to-do list. Learned a lot about Telegram API, build menu, etc. Was a long day working only on this project. This gave me new ideas for chat bot.
 
 **Link(s) to work**: [Telegram chatbot to-do list](https://github.com/FelipeSBarros/ToDoBot)
+
+### Day 8: 13/01/2018
+
+**Today's Progress**: Moving to a new project: #chatbot for #DomesticEconomy. it is harder then I thought.
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
