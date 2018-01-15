@@ -66,6 +66,6 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 ### Day 9: 14/01/2018
 
-**Today's Progress**: Worked on #DomesticEconomy #chatbot. Two steps back to consolidate the idead. Leaving all utopic UX for a later work;
-![images](img/start.png)
+**Today's Progress**: Worked on #DomesticEconomy #chatbot. Two steps back to consolidate the idead. Leaving all utopic UX for a later work;  
+![images](img/start.png)  
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
