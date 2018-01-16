@@ -69,3 +69,10 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Worked on #DomesticEconomy #chatbot. Two steps back to consolidate the idead. Leaving all utopic UX for a later work;  
 ![images](img/start.png)  
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 10: 15/01/2018
+
+**Today's Progress**: Worked on #DomesticEconomy #chatbot. Organized a bit the database structure. But still not being ideal. Created a function to insert income in the database, added more categories and subcategories and a way to get subcategory accordint to a specific category;  
+![images](img/getsubcat.png)  
+![images](img/income.png)  
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
