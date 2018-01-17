@@ -82,3 +82,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Worked on #DomesticEconomy #chatbot. Created a function to retrieve summary data fromm database. **Need improvment**;  
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 12: 17/01/2018
+
+**Today's Progress**: Worked on #DomesticEconomy #chatbot. Created functions to backup #sqlite3 database from the bot; Worked on summary function to retrieve all expenses and income;  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
