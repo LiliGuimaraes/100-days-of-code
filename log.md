@@ -100,3 +100,15 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Worked on #DomesticEconomy #chatbot! Changed the use o #SQLite3, making use of relation tbales. Too much to change because it turned the query a bit complex.  
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 15: 22/01/2018
+
+**Today's Progress**: Worked on #DomesticEconomy #chatbot! Finaly changed all the database schema to use relation between tables. All summary query changed to view.  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 16: 23/01/2018
+
+**Today's Progress**: Worked on #DomesticEconomy #chatbot! fixed bug on #sqlite3 database dump; bot running with all ald data and new structure.  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
