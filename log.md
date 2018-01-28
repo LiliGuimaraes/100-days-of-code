@@ -112,3 +112,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Worked on #DomesticEconomy #chatbot! fixed bug on #sqlite3 database dump; bot running with all ald data and new structure.  
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 17 & 18: 26-27/01/2018
+
+**Today's Progress**: Worked on #DomesticEconomy #chatbot! Created a bahs script to keep bot running na dif it breaks, to get it restarted.  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
