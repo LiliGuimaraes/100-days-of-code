@@ -118,3 +118,12 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Worked on #DomesticEconomy #chatbot! Created a bahs script to keep bot running na dif it breaks, to get it restarted.  
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 19: 29/01/2018
+
+**Today's Progress**: Worked on summary function of #Telegram #DomesticEconomy #chatbot developping a summary plot with all expenses/incomes! All done with #sqlite3, #python #pandas #matplot. Next steps: send it trhu chat  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
+
+![](img/Category_2018-01-30.png) ![](img/User_2018-01-30.png)  
+
