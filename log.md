@@ -127,3 +127,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 ![](img/Category_2018-01-30.png) ![](img/User_2018-01-30.png)  
 
+### Day 20: 31/01/2018
+
+**Today's Progress**: Tried a bit harder to finish #Telegram #DomesticEconomy #chatbot, but I fail.... I couldn't send the the summary plot by message...  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
+
