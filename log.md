@@ -133,3 +133,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
 
+### Day 21 & 22: 01-02/02/2018
+
+**Today's Progress**: Finished the function to send summary data as plot by smg. #Telegram #DomesticEconomy #chatbot  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
+
