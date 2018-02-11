@@ -145,3 +145,15 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
 
+### Day 24: 10/02/2018
+
+**Today's Progress**: improved plot & summary functions on #DomesticEconomy #ChatBot which now will return values according to month and year requested, or current mount and year if both not informed. #Python #sqlite3 #telegram #tech  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
+
+### Day 25: 11/02/2018
+
+**Today's Progress**: improved backup function on #DomesticEconomy #ChatBot: now, after the backup procedure, the file is also forwarded by e-mail. #Python #sqlite3 #telegram #tech  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
+
