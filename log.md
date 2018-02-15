@@ -157,3 +157,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
 
+### Day 26: 15/02/2018
+
+**Today's Progress**: improved #DomesticEconomy #ChatBot: now, I can run few SQL functions from message; also I can add new category and subcategory. #Python #sqlite3 #telegram #tech  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
+
