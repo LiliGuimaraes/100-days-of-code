@@ -163,3 +163,15 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
 
+### Day 27: 17/02/2018
+
+**Today's Progress**: improved #DomesticEconomy #ChatBot: now, It can be used in group. This implementation is in different branch called 'GroupAllowed'. #Python #sqlite3 #telegram #tech  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
+
+### Day 28: 19/02/2018
+
+**Today's Progress**: improved #DomesticEconomy #ChatBot: organized the README.md updateing all commands, instructions and chatbot functionalities. #Python #sqlite3 #telegram #tech  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
+
