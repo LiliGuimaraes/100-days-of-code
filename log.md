@@ -185,8 +185,20 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Today's Progress**: Worked on #ChatBot for bird watching  
 
-- [X] Learned how to request user location by chat
-- [X] worked a bit with the results requesting species occurrences using e-bird API
+- [X] Learned how to request user location by chat  
+- [X] worked a bit with the results requesting species occurrences using e-bird API  
+
+#Python #sqlite3 #telegram #tech #EBird #Biodiversity #Bird #BirdWathcing  
+
+**Link(s) to work**: [Bird Watching Assitent Bot Repository](https://github.com/FelipeSBarros/BirdWatchAssistentBot)
+
+### Day 31: 24/02/2018
+
+**Today's Progress**: Worked on #ChatBot for bird watching  
+
+- [X] Improved the location request  
+- [X] Finished the tool to request bird species list by location (using e-bird API);  
+- [X] Started on function so user can request species photo  
 
 #Python #sqlite3 #telegram #tech #EBird #Biodiversity #Bird #BirdWathcing  
 
