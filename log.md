@@ -213,3 +213,16 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 #Python @xenocanto #telegram #tech #EBird #Biodiversity #Bird #BirdWathcing  
 
 **Link(s) to work**: [Bird Watching Assitent Bot Repository](https://github.com/FelipeSBarros/BirdWatchAssistentBot)
+
+### Day 34: 28/02/2018
+
+**Today's Progress**: Back to #DomesticEconomi #ChatBot:  
+
+- [X] Fixed a few bugs;  
+- [X] Enhenced small parts of code;  
+- [X] Created /summary and /plot for general balance (showing sum of expenses & incomes);  
+- [X] Now, bot will automatically detect when receving msg from group. No need the old branch;  
+
+#Python #telegram #tech #sqlite 
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
