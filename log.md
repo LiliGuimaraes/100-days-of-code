@@ -203,3 +203,13 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 #Python #sqlite3 #telegram #tech #EBird #Biodiversity #Bird #BirdWathcing  
 
 **Link(s) to work**: [Bird Watching Assitent Bot Repository](https://github.com/FelipeSBarros/BirdWatchAssistentBot)
+
+### Day 32-33: 27/02/2018
+
+**Today's Progress**: Worked on #ChatBot for bird watching  
+
+- [X] Started a function to send bird song once a bird species in selected.  
+
+#Python @xenocanto #telegram #tech #EBird #Biodiversity #Bird #BirdWathcing  
+
+**Link(s) to work**: [Bird Watching Assitent Bot Repository](https://github.com/FelipeSBarros/BirdWatchAssistentBot)
