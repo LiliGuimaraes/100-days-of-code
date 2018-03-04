@@ -226,3 +226,15 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 #Python #telegram #tech #sqlite 
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
+
+### Day 35-36: 22-23/02/2018
+
+**Today's Progress**: Back to #BirdWatchingAssistent #ChatBot:  
+
+- [X] Get selected bird species song from XenoCanto;  
+- [X] Enhenced all the code;  
+- [X] Everything working smooth;  
+
+#Python #telegram #tech #sqlite #biodiversity
+
+**Link(s) to work**: [[Bird Watching Assitent Bot Repository](https://github.com/FelipeSBarros/BirdWatchAssistentBot)  
