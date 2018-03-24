@@ -239,6 +239,12 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 **Link(s) to work**: [[Bird Watching Assitent Bot Repository](https://github.com/FelipeSBarros/BirdWatchAssistentBot)  
 
-### Day 37: 24/03/2018
+### Day 37: 23/03/2018
 
 **Today's Progress**: After a month with time to work on my projects, took today to clean & organize my computer. Lets see If I find more time next days...  
+
+### Day 38: 24/03/2018
+
+**Today's Progress**: Back to wornk on a restoration spatial model, developed on #rstats. A lot to improove, but not in my priority list;   
+
+#rstats #rspatial #tech #biodiversity #restoration
