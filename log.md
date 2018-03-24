@@ -238,3 +238,7 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 #Python #telegram #tech #sqlite #biodiversity
 
 **Link(s) to work**: [[Bird Watching Assitent Bot Repository](https://github.com/FelipeSBarros/BirdWatchAssistentBot)  
+
+### Day 37: 24/03/2018
+
+**Today's Progress**: After a month with time to work on my projects, took today to clean & organize my computer. Lets see If I find more time next days...  
