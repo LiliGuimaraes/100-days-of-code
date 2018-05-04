@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: 
+### Day 1:
 ##### Started the project [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching#robotwatching-project-100daysofcode)
 The [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching#robotwatching-project-100daysofcode) project is a bit ambicious. So I will be developing it by baby steps and modularly. The fist module will be building a workflow of getting data, saving it on a databse, sharing thru the internet.
 Started building a #python webscrapping function with #beatifulsoup module saving the result in #sqlite3;
@@ -13,7 +13,7 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 ### Day 2:
 ##### Enhencing [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching#robotwatching-project-100daysofcode)
 
-**Today's Progress**: Created a new python function to check if the Doodle is new or it is already on the database. 
+**Today's Progress**: Created a new python function to check if the Doodle is new or it is already on the database.
 
 **Thoughts**: Good learning about pyhton tuples and list
 
@@ -223,7 +223,7 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 - [X] Created /summary and /plot for general balance (showing sum of expenses & incomes);  
 - [X] Now, bot will automatically detect when receving msg from group. No need the old branch;  
 
-#Python #telegram #tech #sqlite 
+#Python #telegram #tech #sqlite
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)  
 
@@ -251,7 +251,6 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 ### Day 39: 04/04/2018
 
-**Today's Progress**: Changed my #ToDo #Telegram #chatBot to #pythonanywhere using #flak #webhook. Almost 5 uor of study to accomplish the mission :)   
+**Today's Progress**: Changed my #ToDo #Telegram #chatBot to #pythonanywhere using #flak #webhook. Almost 5 Hour of study to accomplish the mission :)   
 
 **Link to work:** [ToDo ChatBot](https://github.com/FelipeSBarros/ToDoBot)
-
