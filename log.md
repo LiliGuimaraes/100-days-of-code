@@ -248,3 +248,10 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Back to wornk on a restoration spatial model, developed on #rstats. A lot to improove, but not in my priority list;   
 
 #rstats #rspatial #tech #biodiversity #restoration
+
+### Day 39: 04/04/2018
+
+**Today's Progress**: Changed my #ToDo #Telegram #chatBot to #pythonanywhere using #flak #webhook. Almost 5 uor of study to accomplish the mission :)   
+
+**Link to work:** [ToDo ChatBot](https://github.com/FelipeSBarros/ToDoBot)
+
