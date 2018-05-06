@@ -245,12 +245,24 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 
 ### Day 38: 24/03/2018
 
-**Today's Progress**: Back to wornk on a restoration spatial model, developed on #rstats. A lot to improove, but not in my priority list;   
+**Today's Progress**: Back to work on a restoration spatial model, developed on #rstats. A lot to improve, but not in my priority list;   
 
 #rstats #rspatial #tech #biodiversity #restoration
 
 ### Day 39: 04/04/2018
 
-**Today's Progress**: Changed my #ToDo #Telegram #chatBot to #pythonanywhere using #flak #webhook. Almost 5 Hour of study to accomplish the mission :)   
+**Today's Progress**: Changed my #ToDo #Telegram #chatBot to #pythonanywhere using #flask #webhook. Almost 5 Hour of study to accomplish the mission :)   
 
 **Link to work:** [ToDo ChatBot](https://github.com/FelipeSBarros/ToDoBot)
+
+### Day 40: 05/04/2018
+
+**Today's Progress**: Started the implementation of my #DomesticEconomy #Telegram #chatBot in #pythonanywhere using #flask #webhook.  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 41: 06/04/2018
+
+**Today's Progress**: Finished the transition of my #DomesticEconomy #Telegram #chatBot to #pythonanywhere using #flask #webhook.  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
