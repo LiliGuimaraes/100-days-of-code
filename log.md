@@ -266,3 +266,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Finished the transition of my #DomesticEconomy #Telegram #chatBot to #pythonanywhere using #flask #webhook.  
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 42: 07/04/2018
+
+**Today's Progress**: Studied a bit about #Markdown in #Python. Looking forward to automate #DomesticEconomy report with it!  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
