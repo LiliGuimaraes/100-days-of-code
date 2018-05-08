@@ -272,3 +272,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Studied a bit about #Markdown in #Python. Looking forward to automate #DomesticEconomy report with it!  
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 43: 08/04/2018
+
+**Today's Progress**: Using #markdown and #python is not easy as with #rstats. Changing my strategy, so studied a bit about handering python to #HTML to later conver to #pdf...  
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
