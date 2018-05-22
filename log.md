@@ -290,3 +290,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Another time trying to build report template with #jinja2 and #pdfkit or #weasyprint, but still difficult to render a figure!  
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 46: 22/05/2018
+
+**Today's Progress**: Changed my strategy. Now working on #pandas data manipulation to build the month report of #DomesticEconomy #ChatBot
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
