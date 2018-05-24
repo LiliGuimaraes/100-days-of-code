@@ -296,3 +296,10 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Changed my strategy. Now working on #pandas data manipulation to build the month report of #DomesticEconomy #ChatBot
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 47: 23/05/2018
+
+**Today's Progress**: Finally got some evolution on #pandas data manipulation. First graphs already structured for monthly report of #DomesticEconomy #ChatBot
+![](./img/TimeSeriesUser.png)
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
