@@ -309,3 +309,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Back to report creation... still not working but, lets keep trying.
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 49: 25/05/2018
+
+**Today's Progress**: Small improvement with #Jinja2 and report creation for my #DomesticEconomy #ChatBot
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
