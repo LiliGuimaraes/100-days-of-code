@@ -303,3 +303,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 ![](./img/TimeSeriesUser.png)
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 48: 24/05/2018
+
+**Today's Progress**: Back to report creation... still not working but, lets keep trying.
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
