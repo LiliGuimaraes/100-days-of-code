@@ -315,3 +315,15 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Small improvement with #Jinja2 and report creation for my #DomesticEconomy #ChatBot
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 50: 26/05/2018
+
+**Today's Progress**: Almost done with #Jinja2 report for #DomesticEconomy #ChatBot
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 51: 27/05/2018
+
+**Today's Progress**: Hard times deploying the #DomesticEconomy #chatBot report....
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
