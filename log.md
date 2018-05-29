@@ -327,3 +327,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Hard times deploying the #DomesticEconomy #chatBot report....
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 52: 28/05/2018
+
+**Today's Progress**: Tried again to deploy time sereies analysis but didn't work :/ #DomesticEconomy #chatBot
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
