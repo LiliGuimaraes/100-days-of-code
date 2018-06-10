@@ -339,3 +339,15 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Finally finished a function to retrieve time series expenses/incomes from #telegram #chatbot #DomesticEconomy
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 54: 09/06/2018
+
+**Today's Progress**: Started a new project: a #python script to retrieve all of my #garmin data. So far any by steps. #selenium #bs4 #webscrap
+
+**Link(s) to work**:
+
+### Day 55: 10/06/2018
+
+**Today's Progress**: Started the day with small advances on #GarminDataExport #WebScrap project. Now #selenium is working fine with #Chrome browser... #bs4 #webscrapping #Garmin
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
