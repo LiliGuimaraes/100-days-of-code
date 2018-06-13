@@ -351,3 +351,21 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Started the day with small advances on #GarminDataExport #WebScrap project. Now #selenium is working fine with #Chrome browser... #bs4 #webscrapping #Garmin
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 56: 11/06/2018
+
+**Today's Progress**: Everyday with small advances on #GarminDataExport #WebScrap project. #bs4 #webscrapping #Garmin
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 57: 11/06/2018
+
+**Today's Progress**: Had problem to download the summary data on #GarminDataExport #WebScrap project. #bs4 #webscrapping #Garmin #Selenium
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 58: 12/06/2018
+
+**Today's Progress**: Finally got the summary data on #GarminDataExport #WebScrap project. #bs4 #webscrapping #Garmin #Selenium #GarminConnect
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
