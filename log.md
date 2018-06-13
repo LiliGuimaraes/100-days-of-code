@@ -369,3 +369,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Finally got the summary data on #GarminDataExport #WebScrap project. #bs4 #webscrapping #Garmin #Selenium #GarminConnect
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 59: 13/06/2018
+
+**Today's Progress**: Small steps on the webscrap to extract all my data from #GarminConnect. #GarminDataExport #WebScrap #bs4 #webscrapping #Garmin #Selenium
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
