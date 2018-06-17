@@ -381,3 +381,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Already downloading de #GPX data from my activities. Jus need to organized the code and trnasform into functions. #GarminDataExport #WebScrap #bs4 #webscrapping #Garmin #Selenium
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 61: 16/06/2018
+
+**Today's Progress**: Started working on the database project to save all activities data. #GarminDataExport #pysycopg2 #SQL
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
