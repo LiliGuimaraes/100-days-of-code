@@ -387,3 +387,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Started working on the database project to save all activities data. #GarminDataExport #pysycopg2 #SQL
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 62: 17/06/2018
+
+**Today's Progress**: Worked on the database integration to save all activities #GIS data on #PostGIS #PostgreSQL. #GarminDataExport #pysycopg2 #SQL
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
