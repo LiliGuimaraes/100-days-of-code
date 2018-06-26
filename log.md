@@ -411,3 +411,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Spent some time studying code sent by a collaborator which append features in #PostGIS #PostgreSQL from #GPX Layers... small step forward.
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 66: 25/06/2018
+
+**Today's Progress**: Spent some time studying [again] the code. Now looking a best way to download all data from #GarminConnect. #PostgreSQL #GPX
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
