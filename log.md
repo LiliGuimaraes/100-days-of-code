@@ -417,3 +417,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Spent some time studying [again] the code. Now looking a best way to download all data from #GarminConnect. #PostgreSQL #GPX
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 67: 26/06/2018
+
+**Today's Progress**: Finaly could download all activities from #GarminConnect by #webscrapping. #Selenium #python #Garmin; Next step: import to #PostgreSQL #PostGIS all the #GPX data
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
