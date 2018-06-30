@@ -429,3 +429,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: Finaly downloaded all activities from #GarminConnect by #webscrapping. Next steps: insert on #PostGIS data base and start playing with #PostgreSQL #GPX #GIS
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 69: 29/06/2018
+
+**Today's Progress**: Imported all #GPX activity data from #GPX to #PostGIS data base. Estarted workingon a triger for the project. #GIs #SIG #PostgreSQL
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
