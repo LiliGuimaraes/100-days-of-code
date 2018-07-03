@@ -441,3 +441,9 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 **Today's Progress**: started to organize the repo and the idea of functions, classes and so on... #GPX #PostGIS #GIS #SIG #PostgreSQL #SQLAlchemy #SpaceTimeAnalysis
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 71: 03/07/2018
+
+**Today's Progress**: Organized the repo but still nedd time to improve the python functions, classes and so on... #GPX #PostGIS #GIS #SIG #PostgreSQL #SQLAlchemy #SpaceTimeAnalysis
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
