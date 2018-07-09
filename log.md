@@ -460,3 +460,10 @@ Started building a #python webscrapping function with #beatifulsoup module savin
 Next steps, start to work on space time analysis...
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 74: 08/07/2018
+
+**Today's Progress**: Finished the #Python functions to extract all data from garmin connect... well integrated with others function. Need to improve but already running fine.
+Looking foward to start to work on space time analysis...
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
