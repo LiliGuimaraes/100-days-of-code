@@ -467,3 +467,9 @@ Next steps, start to work on space time analysis...
 Looking foward to start to work on space time analysis...
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 75: 09/07/2018
+
+**Today's Progress**: Played with #PostGIS #SQL for movement analysis, but realized that I have to make few steps back to fix #SpatialDataBase...
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
