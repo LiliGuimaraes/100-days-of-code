@@ -473,3 +473,9 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Played with #PostGIS #SQL for movement analysis, but realized that I have to make few steps back to fix #SpatialDataBase...
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 76: 13/07/2018
+
+**Today's Progress**: Played with #PostGIS #SQL for delta time and tryed to find a way to fix database without need to restore it...
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
