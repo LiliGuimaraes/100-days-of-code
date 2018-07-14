@@ -474,8 +474,14 @@ Looking foward to start to work on space time analysis...
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
 
-### Day 76: 13/07/2018
+### Day 76: 12/07/2018
 
 **Today's Progress**: Played with #PostGIS #SQL for delta time and tryed to find a way to fix database without need to restore it...
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 77: 13/07/2018
+
+**Today's Progress**: Worked a bit on the old DomesticEconomy ChatBot...
+
+**Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
