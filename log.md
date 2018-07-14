@@ -485,3 +485,9 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Worked a bit on the old DomesticEconomy ChatBot...
 
 **Link(s) to work**: [Telegram domestic economy](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 78: 14/07/2018
+
+**Today's Progress**: Back to Garmin project... trying to figure out a better way (I mean, easy) to import GPX to PostGIS, as I'm lost on all ogr methods and functions.
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
