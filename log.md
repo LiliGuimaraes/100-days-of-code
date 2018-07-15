@@ -491,3 +491,9 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Back to Garmin project... trying to figure out a better way (I mean, easy) to import GPX to PostGIS, as I'm lost on all ogr methods and functions.
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 79: 15/07/2018
+
+**Today's Progress**: Finally found a better (I may say, easy) way to import #gpx to Back to #PostGIS database... Instead of using #gdal #ogr I found a easy way with #GeoPandas (read_file, to_dict) and #GeoSQLAlchemy (execute, insert).
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
