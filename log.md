@@ -497,3 +497,9 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Finally found a better (I may say, easy) way to import #gpx to Back to #PostGIS database... Instead of using #gdal #ogr I found a easy way with #GeoPandas (read_file, to_dict) and #GeoSQLAlchemy (execute, insert).
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 80: 16/07/2018
+
+**Today's Progress**: Spent all night long to figure out a whay to import GeoDataFrame to postGIS keeping its SRID after converting to dict... But I did it!
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
