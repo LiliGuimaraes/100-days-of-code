@@ -503,3 +503,9 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Spent all night long to figure out a whay to import GeoDataFrame to postGIS keeping its SRID after converting to dict... But I did it!
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 81: 20/07/2018
+
+**Today's Progress**: Spent all night long organizing and transforming the script created to a function to import #GPX to #postGIS...Still have things to finish, but it is a start...
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
