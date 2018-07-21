@@ -509,3 +509,9 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Spent all night long organizing and transforming the script created to a function to import #GPX to #postGIS...Still have things to finish, but it is a start...
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 82: 21/07/2018
+
+**Today's Progress**: still orking on functions workflow... what a mess I did...
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
