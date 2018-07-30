@@ -515,3 +515,21 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: still orking on functions workflow... what a mess I did...
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 83: 29/07/2018
+
+**Today's Progress**: Back to project Garmin Extract Data: refactoring all functions and learning more about #Selenium!
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 84: 30/07/2018
+
+**Today's Progress**: Refactoring all functions with class and #Selenium methods... learning a lot about #Selenium!
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 85: 31/07/2018
+
+**Today's Progress**: Refactoring all functions... getting interesting! but alot todo...
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
