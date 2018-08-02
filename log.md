@@ -533,3 +533,9 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Refactoring all functions... getting interesting! but alot todo...
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 86: 2/08/2018
+
+**Today's Progress**: Started to work on database setup...
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
