@@ -539,3 +539,21 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Started to work on database setup...
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 87: 5/08/2018
+
+**Today's Progress**: Back to #DomesticEconomy #Telegram #ChatBot to fix small bugs
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/DomesticEconomy)
+
+### Day 88: 8/08/2018
+
+**Today's Progress**: Back refactoring #GarminConnect project... had to study a bit more about #Python #Class and #SQLALchemy
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 89: 11/08/2018
+
+**Today's Progress**: Done with refactoring all codes and functions. Seems everything fine and running smooth... But, yes, still have things to improve! #Garmin #python #SQLAlchemy #GeoPandas
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
