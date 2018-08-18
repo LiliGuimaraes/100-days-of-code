@@ -557,3 +557,21 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Done with refactoring all codes and functions. Seems everything fine and running smooth... But, yes, still have things to improve! #Garmin #python #SQLAlchemy #GeoPandas
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 90: 14/08/2018
+
+**Today's Progress**: Now is for real...Done with refactoring all codes and functions. Cleaned branch of all unnecessary files. Next steps, merge the branch #Garmin #python #SQLAlchemy #GeoPandas
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 91: 15/08/2018
+
+**Today's Progress**: Organized all README and documentation.
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 92: 18/08/2018
+
+**Today's Progress**: Done with refactoring project functions. Now is time to work on movement data.
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
