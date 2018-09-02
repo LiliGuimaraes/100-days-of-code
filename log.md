@@ -581,3 +581,9 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Started to play with time analysis. Changed a bit my database table to receieve timeDelta, but not sure if its necessary.
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 94: 2/09/2018
+
+**Today's Progress**: Started to play with time analysis. Had to study a little about postgreSQL #date / #time data type.
+
+**Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
