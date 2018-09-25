@@ -587,3 +587,9 @@ Looking foward to start to work on space time analysis...
 **Today's Progress**: Started to play with time analysis. Had to study a little about postgreSQL #date / #time data type.
 
 **Link(s) to work**:[GarminDataExport](https://github.com/FelipeSBarros/GarminDataExport)
+
+### Day 95-8: 22-25/09/2018
+
+**Today's Progress**: After a long time stuck, worked three days on a #Shiny app for #Geomarketing. Incredible the speed to get something aceptable. #Leaflet #sf #plotly #rstats #spatial
+
+**Link(s) to work**:[GarminDataExport](?)
