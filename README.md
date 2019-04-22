@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge.  
 
-Take a look to my first #100DaysOfCode project called [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching)  
+Take a look to my first #100DaysOfCode project 
 
 More about the #100DaysOfCode :  
 ## Contents
