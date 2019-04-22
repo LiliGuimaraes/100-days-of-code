@@ -1,12 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 1:
-##### Started the project [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching#robotwatching-project-100daysofcode)
-The [Robot Bird Watching](https://github.com/FelipeSBarros/RoBirdWatching#robotwatching-project-100daysofcode) project is a bit ambicious. So I will be developing it by baby steps and modularly. The fist module will be building a workflow of getting data, saving it on a databse, sharing thru the internet.
-Started building a #python webscrapping function with #beatifulsoup module saving the result in #sqlite3;
-**Today's Progress**: understood a bit more about webscrap; learned about sqlite3.
+### Day 1: 22/04/2019
+##### Recalling the basics of JavaScript using FreeCodeCamp exercises
+Doing exercises to briefly review:
+- Global Scope and Functions
+- Return to Value from a Function with Return
+- Understanding Undefined Value returned from a Function
+- Write Reusable JavaScript with Functions,
+- Build JavaScript Objects
+- Return to Value from a Function with Return
+- Assignment with a Returned Value
+- Others
 
-**Thoughts:** Amazed with sqlite3. Easy and fast!
+**Today's Progress**: brief review to go to the challenges of this FreeCodeCamp course and get to "Javascript Algorithms And Data Structures Certification (300 hours)"
 
-**Link to work:** [Robot Bird Watching](https://github.com/FelipeSBarros/1stRoBirdWatchingModule/commit/87fb3ef51fac1908d3409b16d6731e26559d46b5)
+**Thoughts:** Being using javascript during my work, although applied to a different area of front and back end, made me realize that I already knew concepts of language
 
+**Link to work:** I do not know how to commit FreeCodeCamp exercises because the platform computes in the system itself the exercises that conclude
