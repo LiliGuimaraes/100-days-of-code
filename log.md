@@ -17,3 +17,10 @@ Doing exercises to briefly review:
 **Thoughts:** Being using javascript during my work, although applied to a different area of front and back end, made me realize that I already knew concepts of language
 
 **Link to work:** I do not know how to commit FreeCodeCamp exercises because the platform computes in the system itself the exercises that conclude
+
+### Day 2: 23/04/2019
+##### Creating an aid tool for new social security rules in Brazil
+**Today's Progress**: Based on the logical exercises from back-end course of the [REPROGRAMA project in Brazil](https://github.com/reprograma/On1-Logica/tree/master/exercicios-aula), I created the structure of a simple form using HTML structure (plus:tried to make each tag to train) and also, I created function in JS to calculate the user's age from the date of birth
+
+**Link(s) to work**
+1. [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/tree/master/Day2)
