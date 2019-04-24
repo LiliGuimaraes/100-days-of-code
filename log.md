@@ -20,6 +20,6 @@ Doing exercises to briefly review:
 
 ### Day 2: 23/04/2019
 ##### Creating an aid tool for new social security rules in Brazil
-**Today's Progress**: Based on the logical exercises from back-end course of the [REPROGRAMA project in Brazil](https://github.com/reprograma/On1-Logica/tree/master/exercicios-aula), I created the structure of a simple form using HTML structure (plus:tried to make each tag to train) and also, I created function in JS to calculate the user's age from the date of birth
+**Today's Progress**: Based on the logical exercises from back-end course of the [REPROGRAMA project in Brazil](https://github.com/reprograma/On1-Logica/tree/master/exercicios-aula), I created the a simple form using HTML structure (plus:tried to make each tag to train) and also, I created function in JS to calculate the user's age from the date of birth
 
 **Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/tree/master/Day2)
