@@ -27,6 +27,8 @@ Doing exercises to briefly review:
 ### Day 3: 24/04/2019
 ##### Update aid tool for new social security rules in Brazil
 **Today's Progress**: I added functionality that verifies the new social security conditions for each type of taxpayer profile established by law.
-**Thoughts:** In order to achieve a higher concentration it is necessary to have a study space different from the living room table as soon as possible
+
+**Thoughts:** In order to achieve a higher concentration it is necessary to have a study space different from the living room table as soon as possible.
+
 **Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day3.html)
 
