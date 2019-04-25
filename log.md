@@ -16,7 +16,7 @@ Doing exercises to briefly review:
 
 **Thoughts:** Being using javascript during my work, although applied to a different area of front and back end, made me realize that I already knew concepts of language
 
-**Link to work:** I do not know how to commit FreeCodeCamp exercises because the platform computes in the system itself the exercises that conclude
+**Link to work:** [Checkout my FreeCodeCamp profile](https://www.freecodecamp.org/lilianguimaraes)
 
 ### Day 2: 23/04/2019
 ##### Creating an aid tool for new social security rules in Brazil
