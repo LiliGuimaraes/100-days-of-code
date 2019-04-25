@@ -36,5 +36,5 @@ Doing exercises to briefly review:
 
 **Thoughts:** My free time on Thursdays is shorter, so I propose to do exercises online in FreeCodeCamp to follow the goal of completing the course and complete the certification
 
-**Link(s) to work** [Checkout my FreeCodeCamp profile](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day3.html)
+**Link(s) to work** [Checkout my FreeCodeCamp profile](https://www.freecodecamp.org/lilianguimaraes)
 
