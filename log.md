@@ -22,4 +22,11 @@ Doing exercises to briefly review:
 ##### Creating an aid tool for new social security rules in Brazil
 **Today's Progress**: Based on the logical exercises from back-end course of the [REPROGRAMA project in Brazil](https://github.com/reprograma/On1-Logica/tree/master/exercicios-aula), I created the a simple form using HTML structure (plus:tried to make each tag to train) and also, I created function in JS to calculate the user's age from the date of birth
 
-**Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/tree/master/Day2)
+**Link(s) to work** [Tool for Social Security in Brazil - day3](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day2.html)
+
+### Day 3: 24/04/2019
+##### Update aid tool for new social security rules in Brazil
+**Today's Progress**: I added functionality that verifies the new social security conditions for each type of taxpayer profile established by law.
+**Thoughts:** In order to achieve a higher concentration it is necessary to have a study space different from the living room table as soon as possible
+**Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day3.html)
+
