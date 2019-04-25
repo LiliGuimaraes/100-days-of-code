@@ -30,5 +30,11 @@ Doing exercises to briefly review:
 
 **Thoughts:** In order to achieve a higher concentration it is necessary to have a study space different from the living room table as soon as possible.
 
-**Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day3.html)
+### Day 4: 25/04/2019
+##### FreeCodeCamp Exercises - Java Script Course (300 hours)
+**Today's Progress**: 
+
+**Thoughts:** My free time on Thursdays is shorter, so I propose to do exercises online in FreeCodeCamp to follow the goal of completing the course and complete the certification
+
+**Link(s) to work** [Checkout my FreeCodeCamp profile](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day3.html)
 
