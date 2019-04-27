@@ -1,0 +1,170 @@
+<!--Crie um algoritmo para ajudar as pessoas a entederem 
+as novas regras da previdência
+e diga se ela já pode se aposentar considerando 
+os critérios da nova regra */
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    #myDiv {
+        width: 100%;
+        padding: 50px 0;
+        text-align: center;
+        background-color: lightblue;
+        margin-top: 20px;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Me ajuda aqui na previdência</title>
+</head>
+
+<body>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <div>
+        <h1>As modificações nas regras da previdência estão te deixando maluco?</h1>
+        <h2>Calma, a gente vai te ajudar a compreender seu caso particularmente </h2>
+        <h2>Informe aqui seu perfil e te entregamos tudo o que você precisa saber</h2>
+        </br>
+
+        <div>
+            <label for="data">Data de Nascimento:</label>
+            <input type="date" name="data" id="data" class="form-control">
+        </div>
+
+        <div>
+            <label for="idade">Idade:</label>
+            <input type="num" name="idade" id="idade" class="form-control" placeholder="Idade" disabled>
+        </div>
+        </br>
+        <p id="demo" onclick="myFunction()">Click me to change my HTML content (innerHTML).</p>
+        <p id="sexo"> 2) Informe seu sexo
+            <form>
+                <input type="checkbox" id="female" value="feminino">FEMININO</br>
+                <input type="checkbox" id="male" value="masculino">MASCULINO</br>
+            </form>
+        </p>
+        </br>
+        <p id="categoria"> 3)Durante o seu tempo de contribuição previdenciária,
+            você atuou em qual setor?
+            <form>
+                <input type="checkbox" id="privateSector" value="privado">Privado</br>
+                <input type="checkbox" id="publicSector" value="publico">Público</br>
+            </form>
+        </p>
+
+        </br>
+        <p id="rural"> 4)Você é trabalhador rural?
+            <form>
+                <input type="checkbox" id="isRuralWorker">Sim, fui/sou trabalhador rural</br>
+                <input type="checkbox">Não</br>
+            </form>
+        </p>
+        </br>
+        <p id="professor"> 5)Você é foi professor (público ou privado)?
+            <form>
+                <input type="checkbox" id="isTeacher">Sim, fui/sou professor</br>
+                <input type="checkbox">Não</br>
+            </form>
+        </p>
+        </br>
+        <p id="policiais"> 6)Você se encaixa em algum desses perfis?
+            <form>
+                <input type="checkbox" id="isCivilOfficer">Policial Civil</br>
+                <input type="checkbox" id="isFederalOfficer">Policial Federal</br>
+                <input type="checkbox" id="isPrisionGuard">Agente Penitenciário</br>
+                <input type="checkbox" id="isSocioEducationalAgent">Agente Socio Educativo</br>
+            </form>
+        </p>
+
+        <button onclick="MyButton()">Me ensine</button>
+        <div id="resume">
+            <h3></h3>
+        </div>
+    </div>
+
+    <script>
+
+        document.getElementById("data").addEventListener('change', function () {
+            var data = new Date(this.value);
+            if (isDate_(this.value) && data.getFullYear() > 1900)
+                document.getElementById("idade").value = calculateAge(this.value);
+        });
+
+        function calculateAge(dobString) {
+            var dob = new Date(dobString);
+            var currentDate = new Date();
+            var currentYear = currentDate.getFullYear();
+            var birthdayThisYear = new Date(currentYear, dob.getMonth(), dob.getDate());
+            var age = currentYear - dob.getFullYear();
+            if (birthdayThisYear > currentDate) {
+                age--;
+            }
+            return age;
+        }
+
+        function calcular(data) {
+            var data = document.form.nascimento.value;
+            alert(data);
+            var partes = data.split("/");
+            var junta = partes[2] + "-" + partes[1] + "-" + partes[0];
+            document.form.idade.value = (calculateAge(junta));
+        }
+
+        var isDate_ = function (input) {
+            var status = false;
+            if (!input || input.length <= 0) {
+                status = false;
+            } else {
+                var result = new Date(input);
+                if (result == 'Invalid Date') {
+                    status = false;
+                } else {
+                    status = true;
+                }
+            }
+            return status;
+        }
+
+
+
+        function MyButton() {
+            let isFemale = document.querySelector('input[id=female]');
+            let isMale = document.querySelector('input[id=male]');
+            let isPrivate = document.querySelector('input[id=privateSector]');
+            let isPublic = document.querySelector('input[id=publicSector]');
+            let isTeacher = document.querySelector('input[id=isTeacher]');
+            let isRuralWorker = document.querySelector('input[id=isRuralWorker]');
+            let isCivilOfficer = document.querySelector('input[id=isCivilOfficer]');
+            let isFederalOfficer = document.querySelector('input[id=isFederalOfficer]');
+            let isPrisionGuard = document.querySelector('input[id=isPrisionGuard]');
+            let isSocioEducationalAgent = document.querySelector('input[id=isSocioEducationalAgent]');
+            if (isFemale.checked && isMale.checked && isPrivate.checked) {
+                document.getElementById('resume').innerHTML = "Mulheres e Homens do setor privado precisam de ter 20 anos de contribuição";
+            } else if (isFemale.checked && isMale.checked && isPublic.checked) {
+                document.getElementById('resume').innerHTML = 'Mulheres e Homens do setor público precisam ter 25 anos de contribuição. OBSERVAÇÃO: Dentro dos 25 anos, 10 anos devem ser de cargo público e 5 anos no mesmo cargo';
+            } else if (isFemale.checked && isMale.checked && isRuralWorker.check) {
+                document.getElementById('resume').innerHTML = 'Mulheres e Homens que trabalharam na área rural devem ter 20 anos de contribuição, no mínimo, para se aposentarem';
+            } else if (isFemale.checked && isMale.checked && isTeacher.checked) {
+                document.getElementById('resume').innerHTML = 'Mulheres e Homens que foram/ são professores precisam contribuir, no mínimo, durante 30 anos para ter direito a aposentadoria';
+            } else if (isFemale.checked && isMale.checked && isCivilOfficer && isFederalOfficer && isPrisionGuard) {
+                document.getElementById('resume').innerHTML = 'Mulheres e Homens precisam ter 55 anos para se aposentarem';
+            }
+        }
+    </script>
+</body>
+
+</html>
