@@ -5,6 +5,7 @@ os critérios da nova regra */
  -->
 <!DOCTYPE html>
 <html lang="en">
+
 <style>
     #myDiv {
         width: 100%;
@@ -23,17 +24,6 @@ os critérios da nova regra */
 </head>
 
 <body>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
     <div>
         <h1>As modificações nas regras da previdência estão te deixando maluco?</h1>
         <h2>Calma, a gente vai te ajudar a compreender seu caso particularmente </h2>
@@ -143,6 +133,7 @@ os critérios da nova regra */
 
         function MyButton() {
             let isFemale = document.querySelector('input[id=female]');
+
             let isMale = document.querySelector('input[id=male]');
             let isPrivate = document.querySelector('input[id=privateSector]');
             let isPublic = document.querySelector('input[id=publicSector]');
@@ -152,7 +143,7 @@ os critérios da nova regra */
             let isFederalOfficer = document.querySelector('input[id=isFederalOfficer]');
             let isPrisionGuard = document.querySelector('input[id=isPrisionGuard]');
             let isSocioEducationalAgent = document.querySelector('input[id=isSocioEducationalAgent]');
-            if (isFemale.checked && isMale.checked && isPrivate.checked) {
+            if (isFemale.checked || isMale.checked && isPrivate.checked) {
                 document.getElementById('resume').innerHTML = "Mulheres e Homens do setor privado precisam de ter 20 anos de contribuição";
             } else if (isFemale.checked && isMale.checked && isPublic.checked) {
                 document.getElementById('resume').innerHTML = 'Mulheres e Homens do setor público precisam ter 25 anos de contribuição. OBSERVAÇÃO: Dentro dos 25 anos, 10 anos devem ser de cargo público e 5 anos no mesmo cargo';
