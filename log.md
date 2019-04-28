@@ -43,7 +43,7 @@ Doing exercises to briefly review:
 ##### Update aid tool for new social security rules in Brazil
 **Today's Progress**: 
 
-**Link(s) to work** [Tool for Social Security in Brazil - day3](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll)
+**Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll)
 
 ### Day 6: 27/04/2019
 ##### Update aid tool for new social security rules in Brazil
