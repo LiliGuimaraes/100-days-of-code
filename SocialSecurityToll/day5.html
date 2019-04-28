@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+</head>
+
+<body>
+    <form>
+        <h1>As modificações nas regras da previdência estão te deixando maluco?</h1>
+        <h2>Calma, a gente vai te ajudar a compreender seu caso particularmente </h2>
+        <h2>Informe aqui seu perfil e te entregamos tudo o que você precisa saber</h2>
+
+        <h4>Informe seu sexo</h4>
+        <div id="sexo">
+            <input type="radio" name="gender" id="female" value="female">FEMININO
+            <input type="radio" name="gender" id="male" value="male">MASCULINO
+        </div>
+        <br/>
+        <label for="data">Data de Nascimento:</label>
+        <input type="date" name="data" id="data" class="form-control">
+        </div>
+
+        <div>
+            <label for="idade">Idade:</label>
+            <input type="num" name="idade" id="idade" class="form-control" placeholder="Idade" disabled>
+        </div>
+        </br>
+        <h4> Em qual dessas profissões abaixo você se encaixa?</h4>
+        <select name="categorie" id="categorie">
+            <option type="select" name="categorie" value="private">Privado</opt />
+            <option type="select" name="categorie" value="public">Público</opt />
+            <option type="select" name="categorie" value="isRuralWorker">Sim, fui/sou trabalhador rural.
+            <option type="select" name="categorie" value="isTeacher">Sim, fui/sou professor(a).
+            <option type="select" name="categorie" value="isPoliceOfficer">Policial Civil, Policial Federal, Agente
+                Penitenciário, Agente Socio Educativo
+        </select>
+    </form>
+    <br /><br /><br />
+
+    <button onclick="MyButton()">Me ensine</button>
+
+    <div id="resume">
+        <h3> Aqui vai seu resumo </h3>
+    </div>
+</body>
+<script>
+    document.getElementById("data").addEventListener('change', function() {
+        var data = new Date(this.value);
+        if (isDate_(this.value) && data.getFullYear() > 1900)
+            document.getElementById("idade").value = calculateAge(this.value);
+    });
+
+    function calculateAge(dobString) {
+        var dob = new Date(dobString);
+        var currentDate = new Date();
+        var currentYear = currentDate.getFullYear();
+        var birthdayThisYear = new Date(currentYear, dob.getMonth(), dob.getDate());
+        var age = currentYear - dob.getFullYear();
+        if (birthdayThisYear > currentDate) {
+            age--;
+        }
+        return age;
+    }
+
+    function calcular(data) {
+        var data = document.form.nascimento.value;
+        alert(data);
+        var partes = data.split("/");
+        var junta = partes[2] + "-" + partes[1] + "-" + partes[0];
+        document.form.idade.value = (calculateAge(junta));
+    }
+    var isDate_ = function(input) {
+        var status = false;
+        if (!input || input.length <= 0) {
+            status = false;
+        } else {
+            var result = new Date(input);
+            if (result == 'Invalid Date') {
+                status = false;
+            } else {
+                status = true;
+            }
+        }
+        return status;
+    }
+
+    function MyButton() {
+
+        let categorie = document.querySelector('select[id=categorie]');
+
+        var isPrivate = categorie.options[categorie.selectedIndex].value == 'private' ? true : false;
+        var isRuralWorker = categorie.options[categorie.selectedIndex].value == 'isRuralWorker' ? true : false;
+        var isTeacher = categorie.options[categorie.selectedIndex].value == 'isTeacher' ? true : false;
+        var isPoliceOfficer = categorie.options[categorie.selectedIndex].value == 'isPoliceOfficer' ? true : false;
+
+        if (isPrivate) {
+            document.getElementById('resume').innerHTML = "Mulheres a partir de 62 anos e homens a partir de 65 anos, que trabalharam no setor privado precisam de ter 20 anos de contribuição mínima para se aposentarem";
+        } else if (isRuralWorker) {
+            document.getElementById('resume').innerHTML = 'Todas as pessoas, sejam mulheres ou homens que trabalharam na área rural devem ter 20 anos de contribuição, no mínimo, para se aposentarem';
+        } else if (isTeacher) {
+            document.getElementById('resume').innerHTML = 'Mulheres e homens que foram/ são professores precisam contribuir, no mínimo, durante 30 anos para ter direito a aposentadoria';
+        } else if (isPoliceOfficer) {
+            document.getElementById('resume').innerHTML = 'Mulheres e homens da área militar precisam ter no mínimo 55 anos para se aposentarem';
+        } else {
+
+        }
+    }
+</script>
+
+</html>
