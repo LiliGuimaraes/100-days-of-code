@@ -51,5 +51,11 @@ Doing exercises to briefly review:
 
 **Thoughts:** Today I made several attempts to improve the form of the tool and although I could not reach a conclusion of which was the best, I learned from the tests, seeing the possibilities of application, although I do not know how to use them completely. I spent several hours of the day trying to fix a Debian version update bug on my notebook, and although it was not coding, it made me see new technology stuff.
 
-**Link(s) to work** [Tool for Social Security in Brazil - day3](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll)
+**Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day5.html)
+
+### Day 7: 28/04/2019
+##### Update aid tool for new social security rules in Brazil
+**Today's Progress **: 
+
+**Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day6.html)
 
