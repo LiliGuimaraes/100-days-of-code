@@ -59,7 +59,7 @@ Doing exercises to briefly review:
 
 **Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day6.html)
 
-### Day 6: 27/04/2019
+### Day 8: 27/04/2019
 ##### Update aid tool for new social security rules in Brazil
 **Today's Progress **: 
 
@@ -67,7 +67,7 @@ Doing exercises to briefly review:
 
 **Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day5.html)
 
-### Day 7: 29/04/2019
+### Day 9: 29/04/2019
 ##### Update aid tool for new social security rules in Brazil
 **Today's Progress **:  work with CSS, finally =)
 
