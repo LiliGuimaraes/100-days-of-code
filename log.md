@@ -75,3 +75,12 @@ Doing exercises to briefly review:
 
 https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/style.css
 
+# 100 Days Of Code - Log
+
+### Day 1: 30/04/2019
+##### Javascript Algorithms And Data Structures Certification (300 hours)
+
+**Today's Progress**: brief review to go to the challenges of this FreeCodeCamp course and get to "Javascript Algorithms And Data Structures Certification (300 hours)"
+
+**Link to work:** [Checkout my FreeCodeCamp profile](https://www.freecodecamp.org/lilianguimaraes)
+
