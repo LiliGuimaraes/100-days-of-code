@@ -9,7 +9,7 @@ Doing exercises to briefly review:
 
 ### Day 2: 23/04/2019
 ##### Creating an aid tool for new social security rules in Brazil
-**Today's Progress**: Based on the logical exercises from back-end course of the [REPROGRAMA project in Brazil](https://github.com/reprograma/On1-Logica/tree/master/exercicios-aula), I created the a simple form using HTML structure (plus:tried to make each tag to train) and also, I created function in JS to calculate the user's age from the date of birth
+**Today's Progress**: Based on the logical exercises from back-end course of the [REPROGRAMA project in Brazil](https://github.com/reprograma/On1-Logica/tree/master/exercicios-aula), I created the a simple form using HTML structure  and I created function in JS to calculate the user's age from the date of birth
 **Link(s) to work** [Tool for Social Security in Brazil - day2](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day2.html)
 
 ### Day 3: 24/04/2019
@@ -38,7 +38,6 @@ Doing exercises to briefly review:
 
 ### Day 8: 27/04/2019
 ##### Update aid tool for new social security rules in Brazil
- **Thoughts:** Today I made several attempts to improve the form of the tool and although I could not reach a conclusion of which was the best, I learned from the tests, seeing the possibilities of application, although I do not know how to use them completely. I spent several hours of the day trying to fix a Debian version update bug on my notebook, and although it was not coding, it made me see new technology stuff.
 **Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day5.html)
 
 ### Day 9: 29/04/2019
@@ -49,14 +48,12 @@ https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll
 
 ### Day 10: 30/04/2019
 ##### Javascript Algorithms And Data Structures Certification (300 hours)
-
 **Today's Progress**: brief review to go to the challenges of this FreeCodeCamp course and get to "Javascript Algorithms And Data Structures Certification (300 hours)"
-
 **Link to work:** [Checkout my FreeCodeCamp profile](https://www.freecodecamp.org/lilianguimaraes)
 
 ### Day 11: 03/04/2019
 ##### Update aid tool for new social security rules in Brazil
-**Today's Progress **:  Better understand how to iterate loops in JS. Learning the difference between "forEach" (arrays), than for in is used to loop through properties of an object. Improve my personal tool for Brazilian Forest Act
+**Today's Progress **: Better understand how to iterate loops in JS. Learning the difference between "forEach" (arrays), than for in is used to loop through properties of an object. Improve my personal tool for Brazilian Forest Act
 
 **Link(s) to work** [Tool for Social Security in Brazil](
 https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/style.css)
