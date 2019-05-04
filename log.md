@@ -47,10 +47,17 @@ Doing exercises to briefly review:
 **Link(s) to work** [Tool for Social Security in Brazil](
 https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/style.css)
 
-### Day 8: 30/04/2019
+### Day 10: 30/04/2019
 ##### Javascript Algorithms And Data Structures Certification (300 hours)
 
 **Today's Progress**: brief review to go to the challenges of this FreeCodeCamp course and get to "Javascript Algorithms And Data Structures Certification (300 hours)"
 
 **Link to work:** [Checkout my FreeCodeCamp profile](https://www.freecodecamp.org/lilianguimaraes)
+
+### Day 11: 03/04/2019
+##### Update aid tool for new social security rules in Brazil
+**Today's Progress **:  Better understand how to iterate loops in JS. Learning the difference between "forEach" (arrays), than for in is used to loop through properties of an object. Improve my personal tool for Brazilian Forest Act
+
+**Link(s) to work** [Tool for Social Security in Brazil](
+https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/style.css)
 
