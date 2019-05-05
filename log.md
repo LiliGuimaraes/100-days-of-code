@@ -52,17 +52,23 @@ https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll
 **Link to work:** [Checkout my FreeCodeCamp profile](https://www.freecodecamp.org/lilianguimaraes)
 
 ### Day 11: 03/04/2019
-##### Update aid tool for new social security rules in Brazil
+##### Create tool for Brazilian New Forest Law
 **Today's Progress **: Better understand how to iterate loops in JS. Learning the difference between "forEach" (arrays), than for in is used to loop through properties of an object. Improve my personal tool for Brazilian Forest Act
 
-**Link(s) to work** [Tool for Social Security in Brazil](
-https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/style.css)
+**Link(s) to work** [Brazilian New Forest Law](
+https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 ### Day 12: 04/04/2019
-##### Update aid tool for new social security rules in Brazil
+##### Update tool for Brazilian New Forest Law
 **Today's Progress **:Understanding how to loop a JavaScript object to use in a select tag HTML.
 **Thoughts:** I counted on the help of three famous letters (men) on this day. It is interesting to learn how each one teaches more or less kindly.
 
-**Link(s) to work** [Tool for Social Security in Brazil](
-https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/style.css)
+**Link(s) to work** [Brazilian New Forest Law](
+https://github.com/LiliGuimaraes/BrazilianNewForestAct)
+
+### Day 13: 04/04/2019
+##### Update tool for Brazilian New Forest Law
+**Today's Progress **: to go through values within an array object, working with this.value. Working with "addEventListeners" to dynamically change the values (found in the object array) in the form of the tool
+**Link(s) to work** [Brazilian New Forest Law](
+https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
