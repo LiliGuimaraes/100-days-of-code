@@ -58,3 +58,11 @@ https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll
 **Link(s) to work** [Tool for Social Security in Brazil](
 https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/style.css)
 
+### Day 12: 04/04/2019
+##### Update aid tool for new social security rules in Brazil
+**Today's Progress **:Understanding how to loop a JavaScript object to use in a select tag HTML.
+**Thoughts:** I counted on the help of three famous letters (men) on this day. It is interesting to learn how each one teaches more or less kindly.
+
+**Link(s) to work** [Tool for Social Security in Brazil](
+https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/style.css)
+
