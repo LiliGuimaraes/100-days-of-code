@@ -51,22 +51,27 @@ https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll
 **Today's Progress**: brief review to go to the challenges of this FreeCodeCamp course and get to "Javascript Algorithms And Data Structures Certification (300 hours)"
 **Link to work:** [Checkout my FreeCodeCamp profile](https://www.freecodecamp.org/lilianguimaraes)
 
-### Day 11: 03/04/2019
+### Day 11: 01/05/2019
 ##### Create tool for Brazilian New Forest Law
 **Today's Progress **: Better understand how to iterate loops in JS. Learning the difference between "forEach" (arrays), than for in is used to loop through properties of an object. Improve my personal tool for Brazilian Forest Act
 
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
-### Day 12: 04/04/2019
+### Day 12: 03/05/2019
 ##### Update tool for Brazilian New Forest Law
-**Today's Progress **:Understanding how to loop a JavaScript object to use in a select tag HTML.
-**Thoughts:** I counted on the help of three famous letters (men) on this day. It is interesting to learn how each one teaches more or less kindly.
-
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
-### Day 13: 04/04/2019
+### Day 13: 04/05/2019
+##### Update tool for Brazilian New Forest Law
+**Today's Progress **:Understanding how to loop a JavaScript object to use in a select tag HTML.
+**Thoughts:** I counted on the help of three famous letters (men) on this day. It is interesting to learn how each one teaches more or less kindly.
+**Link(s) to work** [Brazilian New Forest Law](
+https://github.com/LiliGuimaraes/BrazilianNewForestAct)
+
+
+### Day 14: 05/05/2019
 ##### Update tool for Brazilian New Forest Law
 **Today's Progress **: to go through values within an array object, working with this.value. Working with "addEventListeners" to dynamically change the values (found in the object array) in the form of the tool
 **Link(s) to work** [Brazilian New Forest Law](
