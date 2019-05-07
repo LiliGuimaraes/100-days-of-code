@@ -82,4 +82,8 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 **Today's Progress **: learning and testing front-end skills with BootStrap
 **Link(s) to work** https://github.com/LiliGuimaraes/BrazilSocialSecurity
 
-
+### Day 16: 07/05/2019
+##### Exercises and Update form Brazil Social Security tooll
+**Today's Progress **: FreeCodeCamp (CSS) and BootStrap to toll
+**Link(s) to work** [FreeCodeCamp] (https://www.freecodecamp.org/lilianguimaraes)
+[Security Tool] (https://github.com/LiliGuimaraes/BrazilSocialSecurity)
