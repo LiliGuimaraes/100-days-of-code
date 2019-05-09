@@ -102,3 +102,8 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 **Link(s) to work** [FreeCodeCamp] (https://www.freecodecamp.org/lilianguimaraes)
 [Security Tool] (https://github.com/LiliGuimaraes/BrazilSocialSecurity)
+
+### Day 17: 08/05/2019
+##### Exercises from Back End course of REPROGRAMA
+**Today's Progress **: HTML and JS
+**Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA] (https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
