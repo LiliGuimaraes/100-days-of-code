@@ -107,3 +107,8 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ##### Exercises from Back End course of REPROGRAMA
 **Today's Progress **: HTML and JS
 **Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
+
+### Day 18: 09/05/2019
+##### Exercises from Back End course of REPROGRAMA
+**Today's Progress **: navigation structures, elements HTML (tables, rows, lines) , BootStraps Components, ...
+**Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
