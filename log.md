@@ -78,7 +78,6 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ##### Update tool for Brazilian New Forest Law
 **Today's Progress **:Understanding how to loop a JavaScript object to use in a select tag HTML.
 **Thoughts:** I counted on the help of three famous letters (men) on this day. It is interesting to learn how each one teaches more or less kindly.
-
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
@@ -86,14 +85,12 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ### Day 14: 05/05/2019
 ##### Update tool for Brazilian New Forest Law
 **Today's Progress **: to go through values within an array object, working with this.value. Working with "addEventListeners" to dynamically change the values (found in the object array) in the form of the tool
-
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 ### Day 15: 06/05/2019
 ##### Update Brazil Social Security tooll
 **Today's Progress **: learning and testing front-end skills with BootStrap
-
 **Link(s) to work** [Brazil Social Security tooll](https://github.com/LiliGuimaraes/BrazilSocialSecurity)
 
 ### Day 16: 07/05/2019
@@ -111,4 +108,12 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ### Day 18: 09/05/2019
 ##### Exercises from Back End course of REPROGRAMA
 **Today's Progress **: navigation structures, elements HTML (tables, rows, lines) , BootStraps Components, ...
+**Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
+
+### Day 19: 11/05/2019
+##### Exercises from Back End course of REPROGRAMA
+
+**Thoughts:** I decided to use the program exercises to create a page about the artist Henri Matisse, whom I love with passion
+
+**Today's Progress **: working hard with CSS3
 **Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
