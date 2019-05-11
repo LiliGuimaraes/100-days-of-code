@@ -1,9 +1,8 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 22/04/2019
-##### Recalling the basics of JavaScript using FreeCodeCamp exercises
-Doing exercises to briefly review:
--**Today's Progress**: brief review to go to the challenges of this FreeCodeCamp course and get to "Javascript Algorithms And Data Structures Certification (300 hours)"
+##### Recalling the basics of JavaScript using FreeCodeCamp exercises Doing exercises to briefly review:
+**Today's Progress**: brief review to go to the challenges of this FreeCodeCamp course and get to "Javascript Algorithms And Data Structures Certification (300 hours)"
 **Thoughts:** Being using javascript during my work, although applied to a different area of front and back end, made me realize that I already knew concepts of language.
 
 **Link to work:** [Checkout my FreeCodeCamp profile](https://www.freecodecamp.org/lilianguimaraes)
@@ -84,7 +83,7 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 ### Day 14: 05/05/2019
 ##### Update tool for Brazilian New Forest Law
-**Today's Progress **: to go through values within an array object, working with this.value. Working with "addEventListeners" to dynamically change the values (found in the object array) in the form of the tool
+**Today's Progress **:  to go through values within an array object, working with this.value. Working with "addEventListeners" to dynamically change the values (found in the object array) in the form of the tool
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
