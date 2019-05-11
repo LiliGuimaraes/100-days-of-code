@@ -103,17 +103,18 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ### Day 17: 08/05/2019
 ##### Exercises from Back End course of REPROGRAMA
 **Today's Progress **: HTML and JS
+
 **Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
 
 ### Day 18: 09/05/2019
 ##### Exercises from Back End course of REPROGRAMA
 **Today's Progress **: navigation structures, elements HTML (tables, rows, lines) , BootStraps Components, ...
+
 **Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
 
 ### Day 19: 11/05/2019
 ##### Exercises from Back End course of REPROGRAMA
-
 **Thoughts:** I decided to use the program exercises to create a page about the artist Henri Matisse, whom I love with passion
-
 **Today's Progress **: working hard with CSS3
+
 **Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
