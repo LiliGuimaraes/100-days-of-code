@@ -117,3 +117,10 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 **Today's Progress **: working hard with CSS3
 
 **Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
+
+### Day 20: 12/05/2019
+##### Exercises from Back End course of REPROGRAMA
+**Thoughts:** even if I traveled to my hometown
+**Today's Progress **: I created a contact page with styles for the Matisse blog. I learned more about spacing, filling, sizes and decorations.
+
+**Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
