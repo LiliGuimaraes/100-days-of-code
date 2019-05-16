@@ -127,7 +127,7 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 ### Day 21: 15/05/2019
 ##### Exercises from Back End course of REPROGRAMA
-**Thoughts:** do the challenge, after 12hours of work in office, its really exausting. But, otherwhise, but otherwise it is rewarding
-**Today's Progress **: Use CSS properties (margin, paddings, fonts, animation, grids..) to created a galery page to show Henri Matisse paintings. 
+**Thoughts:** Make the challenge, after 12hours of work in office, its really exausting. But, otherwhise it is rewarding
+**Today's Progress **: Use CSS properties (margin, paddings, fonts, animation, grids..) to created a gallery page to show Henri Matisse paintings. 
 
 **Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA (https://github.com/LiliGuimaraes/reprograma_BackEndCourse/blob/master/pages/galeria.html) 
