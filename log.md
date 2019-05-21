@@ -137,10 +137,10 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ##### Exercises from Back End course of REPROGRAMA - Consuming dynamic data with Fetch API
 **Today's Progress **: Understanding Rest, Verbs and Working with Dynamic Data with Postman
 
-**Link(s) to work** [fetch API](https://github.com/LiliGuimaraes/jsapi/tree/master/CEP) 
+**Link(s) to work** [fetch API - CEP EXERCISE](https://github.com/LiliGuimaraes/jsapi/tree/master/CEP) 
 
 ### Day 23: 21/05/2019
 ##### Exercises from Back End course of REPROGRAMA - Consuming dynamic data with Fetch API
 **Today's Progress **: create cuttie GHIBLI HISTORY chapters 
 
-**Link(s) to work** [fetch API](https://github.com/LiliGuimaraes/jsapi/tree/master/ESTUDIO-GHIBLI) 
+**Link(s) to work** [fetch GHIBLI HISTORY](https://github.com/LiliGuimaraes/jsapi/tree/master/ESTUDIO-GHIBLI) 
