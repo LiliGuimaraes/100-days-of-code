@@ -90,6 +90,7 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ### Day 15: 06/05/2019
 ##### Update Brazil Social Security tooll
 **Today's Progress **: learning and testing front-end skills with BootStrap
+
 **Link(s) to work** [Brazil Social Security tooll](https://github.com/LiliGuimaraes/BrazilSocialSecurity)
 
 ### Day 16: 07/05/2019
@@ -130,7 +131,8 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 **Thoughts:** Make the challenge, after 12hours of work in office, its really exausting. But, otherwhise it is rewarding
 **Today's Progress **: Use CSS properties (margin, paddings, fonts, animation, grids..) to created a gallery page to show Henri Matisse paintings. 
 
-**Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA (https://github.com/LiliGuimaraes/reprograma_BackEndCourse/blob/master/pages/galeria.html) 
+**Link(s) to work** 
+[solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse/blob/master/pages/galeria.html) 
 
 
 ### Day 22: 20/05/2019
