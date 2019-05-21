@@ -131,3 +131,16 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 **Today's Progress **: Use CSS properties (margin, paddings, fonts, animation, grids..) to created a gallery page to show Henri Matisse paintings. 
 
 **Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA (https://github.com/LiliGuimaraes/reprograma_BackEndCourse/blob/master/pages/galeria.html) 
+
+
+### Day 22: 20/05/2019
+##### Exercises from Back End course of REPROGRAMA - Consuming dynamic data with Fetch API
+**Today's Progress **: Understanding Rest, Verbs and Working with Dynamic Data with Postman
+
+**Link(s) to work** [fetch API](https://github.com/LiliGuimaraes/jsapi/tree/master/CEP) 
+
+### Day 23: 21/05/2019
+##### Exercises from Back End course of REPROGRAMA - Consuming dynamic data with Fetch API
+**Today's Progress **: create cuttie GHIBLI HISTORY chapters 
+
+**Link(s) to work** [fetch API](https://github.com/LiliGuimaraes/jsapi/tree/master/ESTUDIO-GHIBLI) 
