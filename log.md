@@ -146,3 +146,11 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 **Today's Progress **: create cuttie GHIBLI HISTORY chapters 
 
 **Link(s) to work** [fetch GHIBLI HISTORY](https://github.com/LiliGuimaraes/jsapi/tree/master/ESTUDIO-GHIBLI) 
+
+
+### Day 24: 22/05/2019
+##### Exercises from Back End course of REPROGRAMA - Consuming dynamic data with Fetch API
+**Today's Progress **: Verbs, Request and Response and working with dynamic data with Postman
+
+**Link(s) to work** [fetch POST simple form exercise](https://github.com/LiliGuimaraes/jsapi/tree/master/POST) 
+[fetch-create POKEMONS CARDS](hhttps://github.com/LiliGuimaraes/jsapi/tree/master/POKEMON) 
