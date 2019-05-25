@@ -160,7 +160,7 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 **Link(s) to work** [My FreeCodeCamp Profile](https://www.freecodecamp.org/lilianguimaraes) 
 
-### Day 25: 23/05/2019
+### Day 26: 23/05/2019
 ##### Consuming dynamic data with Fetch API
 **Today's Progress **: Practicing API Compatibility with Fetch API and Template String
 
