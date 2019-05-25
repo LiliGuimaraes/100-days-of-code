@@ -153,9 +153,16 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 **Today's Progress **: Verbs, Request and Response and working with dynamic data with Postman
 
 **Link(s) to work** [fetch POST simple form exercise](https://github.com/LiliGuimaraes/jsapi/tree/master/POST) 
-[fetch-create POKEMONS CARDS](hhttps://github.com/LiliGuimaraes/jsapi/tree/master/POKEMON) 
+[fetch-create POKEMONS CARDS](https://github.com/LiliGuimaraes/jsapi/tree/master/POKEMON) 
 
 ### Day 25: 23/05/2019
 ##### FreeCodeCamp - Introduction to the JSON APIs and AJAX Challenges
 
 **Link(s) to work** [My FreeCodeCamp Profile](https://www.freecodecamp.org/lilianguimaraes) 
+
+### Day 25: 23/05/2019
+##### Consuming dynamic data with Fetch API
+**Today's Progress **: Practicing API Compatibility with Fetch API and Template String
+
+**Link(s) to work** [fetch - Exercise profile users cards](https://github.com/LiliGuimaraes/jsapi/blob/master/PROFILE/) 
+[fetch- Exercise Movie from IMDB](https://github.com/LiliGuimaraes/jsapi/tree/master/MOVIE) 
