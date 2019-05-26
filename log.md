@@ -166,3 +166,12 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 **Link(s) to work** [fetch - Exercise profile users cards](https://github.com/LiliGuimaraes/jsapi/blob/master/PROFILE/) 
 [fetch- Exercise Movie from IMDB](https://github.com/LiliGuimaraes/jsapi/tree/master/MOVIE) 
+
+
+### Day 27: 24/05/2019
+##### Create Museum Arts Gallery project
+**Today's Progress **: API FETCH
+**Thoughts**: re-use the Henri Matisse personal blog to jump into something more challenger
+
+**Link(s) to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt) 
+
