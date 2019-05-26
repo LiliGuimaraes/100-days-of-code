@@ -168,10 +168,16 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 [fetch- Exercise Movie from IMDB](https://github.com/LiliGuimaraes/jsapi/tree/master/MOVIE) 
 
 
-### Day 27: 24/05/2019
+### Day 27: 25/05/2019
 ##### Create Museum Arts Gallery project
 **Today's Progress **: API FETCH
 **Thoughts**: re-use the Henri Matisse personal blog to jump into something more challenger
 
 **Link(s) to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt) 
 
+### Day 28: 26/05/2019
+##### Oauth2 authentication API Museum Arts Gallery project
+**Today's Progress **: Express.node / API resquests 
+**Thoughts**: I did not code for a full hour, I believe, but I spent more than 6 hours in front of the notebook trying to figure out how to do OAuth2 authentication to consume data from the Artsy API of art works to assemble my personal application. This included multiple authentication attempts using two different libraries.
+
+**Link(s) to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt)
