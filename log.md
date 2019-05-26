@@ -42,38 +42,38 @@
 
 **Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day6.html)
 
-### Day 8: 27/04/2019
+### Day 8: 29/04/2019
 ##### Update aid tool for new social security rules in Brazil
 
 **Link(s) to work** [Tool for Social Security in Brazil](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day5.html)
 
-### Day 9: 29/04/2019
+### Day 9: 01/05/2019
 ##### Update aid tool for new social security rules in Brazil
 **Today's Progress **:  work with CSS, finally =)
 
 **Link(s) to work** [Tool for Social Security in Brazil](
 https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/style.css)
 
-### Day 10: 30/04/2019
+### Day 10: 02/05/2019
 ##### Javascript Algorithms And Data Structures Certification (300 hours)
 **Today's Progress**: brief review to go to the challenges of this FreeCodeCamp course and get to "Javascript Algorithms And Data Structures Certification (300 hours)" .
 
 **Link to work:** [Checkout my FreeCodeCamp profile](https://www.freecodecamp.org/lilianguimaraes)
 
-### Day 11: 01/05/2019
+### Day 11: 03/05/2019
 ##### Create tool for Brazilian New Forest Law
 **Today's Progress **: Better understand how to iterate loops in JS. Learning the difference between "forEach" (arrays), than for in is used to loop through properties of an object. Improve my personal tool for Brazilian Forest Act
 
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
-### Day 12: 03/05/2019
+### Day 12: 04/05/2019
 ##### Update tool for Brazilian New Forest Law
 
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
-### Day 13: 04/05/2019
+### Day 13: 05/05/2019
 ##### Update tool for Brazilian New Forest Law
 **Today's Progress **:Understanding how to loop a JavaScript object to use in a select tag HTML.
 **Thoughts:** I counted on the help of three famous letters (men) on this day. It is interesting to learn how each one teaches more or less kindly.
@@ -81,32 +81,32 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 
-### Day 14: 05/05/2019
+### Day 14: 06/05/2019
 ##### Update tool for Brazilian New Forest Law
 **Today's Progress **:  to go through values within an array object, working with this.value. Working with "addEventListeners" to dynamically change the values (found in the object array) in the form of the tool
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
-### Day 15: 06/05/2019
+### Day 15: 07/05/2019
 ##### Update Brazil Social Security tooll
 **Today's Progress **: learning and testing front-end skills with BootStrap
 
 **Link(s) to work** [Brazil Social Security tooll](https://github.com/LiliGuimaraes/BrazilSocialSecurity)
 
-### Day 16: 07/05/2019
+### Day 16: 08/05/2019
 ##### Exercises and Update form Brazil Social Security tooll
 **Today's Progress **: FreeCodeCamp (CSS) and BootStrap to toll
 
 **Link(s) to work** [FreeCodeCamp](https://www.freecodecamp.org/lilianguimaraes)
 [Security Tool](https://github.com/LiliGuimaraes/BrazilSocialSecurity)
 
-### Day 17: 08/05/2019
+### Day 17: 09/05/2019
 ##### Exercises from Back End course of REPROGRAMA
 **Today's Progress **: HTML and JS
 
 **Link(s) to work** [solve exercises - backEndCourse- REPROGRAMA](https://github.com/LiliGuimaraes/reprograma_BackEndCourse) 
 
-### Day 18: 09/05/2019
+### Day 18: 10/05/2019
 ##### Exercises from Back End course of REPROGRAMA
 **Today's Progress **: navigation structures, elements HTML (tables, rows, lines) , BootStraps Components, ...
 
@@ -160,7 +160,7 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 **Link(s) to work** [My FreeCodeCamp Profile](https://www.freecodecamp.org/lilianguimaraes) 
 
-### Day 26: 23/05/2019
+### Day 26: 24/05/2019
 ##### Consuming dynamic data with Fetch API
 **Today's Progress **: Practicing API Compatibility with Fetch API and Template String
 
