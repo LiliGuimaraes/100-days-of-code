@@ -181,3 +181,9 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 **Thoughts**: I did not code for a full hour, I believe, but I spent more than 6 hours in front of the notebook trying to figure out how to do OAuth2 authentication to consume data from the Artsy API of art works to assemble my personal application. This included multiple authentication attempts using two different libraries.
 
 **Link(s) to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt)
+
+### Day 29: 27/05/2019
+##### Oauth2 authentication API Museum Arts Gallery project
+**Today's Progress **:doing authentication in the Artsy API through an application node. Creating the react-app to raise the requisitions in locahost
+
+**Link(s) to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt/tree/master/myapp)
