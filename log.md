@@ -184,6 +184,7 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 ### Day 29: 27/05/2019
 ##### Oauth2 authentication API Museum Arts Gallery project
-**Today's Progress **:doing authentication in the Artsy API through an application node. Creating the react-app to raise the requisitions in locahost
+**Today's Progress **:doing tests on how to use the artsy API very late at night, after work. I'm really exhaustic and my brain do not seem to work
 
 **Link(s) to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt/tree/master/myapp)
+c
