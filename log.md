@@ -182,9 +182,16 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 **Link(s) to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt)
 
-### Day 29: 27/05/2019
+### Day 29: 28/05/2019
 ##### Oauth2 authentication API Museum Arts Gallery project
 **Today's Progress **:doing tests on how to use the artsy API very late at night, after work. I'm really exhaustic and my brain do not seem to work
 
 **Link(s) to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt/tree/master/myapp)
-c
+
+### Day 30: 29/05/2019
+##### Programming in JavaScript using Google Earth Engine (cloud platform for image satellite processing)
+**Today's Progress **: I received a challenge from the group of developers I am in - MapBiomas - and I programmed a tool for internal use of the geoprocessing analysts of the group to see and compare different images about the deforestation alert in Brazil
+
+### Day 30: 29/05/2019
+##### Programming in JavaScript using Google Earth Engine (cloud platform for image satellite processing)
+**Today's Progress **: I received a challenge from the group of developers I am in - MapBiomas - and I programmed a tool for internal use of the geoprocessing analysts of the group to see and compare different images about the deforestation alert in Brazil
