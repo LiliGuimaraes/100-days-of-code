@@ -192,6 +192,6 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ##### Programming in JavaScript using Google Earth Engine (cloud platform for image satellite processing)
 **Today's Progress **: I received a challenge from the group of developers I am in - MapBiomas - and I programmed a tool for internal use of the geoprocessing analysts of the group to see and compare different images about the deforestation alert in Brazil
 
-### Day 30: 29/05/2019
+### Day 31: 30/05/2019
 ##### Programming in JavaScript using Google Earth Engine (cloud platform for image satellite processing)
 **Today's Progress **: I received a challenge from the group of developers I am in - MapBiomas - and I programmed a tool for internal use of the geoprocessing analysts of the group to see and compare different images about the deforestation alert in Brazil
