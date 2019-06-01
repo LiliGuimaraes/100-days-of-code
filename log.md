@@ -202,4 +202,5 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ## API exercise - know how to use API and, then, create a CRUD.
 **Today's Progress**: Using GET method to list name of women participating in Brazilian society - base on [REPROGRAMA - BACKEND COURSE](https://github.com/reprograma/n2-projeto-api)
 
-**Link(s) to work**[projeto-APIReprograma(https://github.com/LiliGuimaraes/jsapi/tree/master/projeto-api)
+**Link(s) to work** 
+[projeto API](https://github.com/LiliGuimaraes/jsapi/tree/master/projeto-api)
