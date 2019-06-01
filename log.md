@@ -195,3 +195,9 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ### Day 31: 30/05/2019
 ##### Programming in JavaScript using Google Earth Engine (cloud platform for image satellite processing)
 **Today's Progress **: I received a challenge from the group of developers I am in - MapBiomas - and I programmed a tool for internal use of the geoprocessing analysts of the group to see and compare different images about the deforestation alert in Brazil
+
+### Day 32: 01/06/2019
+##### API exercise -know how to use API and, then, create a CRUD - base on [REPROGRAMA - BACKEND COURSE](https://github.com/reprograma/n2-projeto-api)
+**Today's Progress **: Using GET method to list name of women participating in Brazilian society
+**Link(s) to work** 
+[projeto-API Reprograma(https://github.com/LiliGuimaraes/jsapi/tree/master/projeto-api)
