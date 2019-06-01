@@ -11,7 +11,7 @@
 ##### Creating an aid tool for new social security rules in Brazil
 **Today's Progress**: Based on the logical exercises from back-end course of the [REPROGRAMA project in Brazil](https://github.com/reprograma/On1-Logica/tree/master/exercicios-aula), I created the a simple form using HTML structure  and I created function in JS to calculate the user's age from the date of birth.
 
-**Link(s) to work** [Tool for Social Security in Brazil - day2](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day2.html)
+**Link to work** [Tool for Social Security in Brazil - day2](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/SocialSecurityToll/day2.html)
 
 ### Day 3: 24/04/2019
 ##### Update aid tool for new social security rules in Brazil
@@ -77,6 +77,7 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ##### Update tool for Brazilian New Forest Law
 **Today's Progress **:Understanding how to loop a JavaScript object to use in a select tag HTML.
 **Thoughts:** I counted on the help of three famous letters (men) on this day. It is interesting to learn how each one teaches more or less kindly.
+
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
@@ -84,6 +85,7 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ### Day 14: 06/05/2019
 ##### Update tool for Brazilian New Forest Law
 **Today's Progress **:  to go through values within an array object, working with this.value. Working with "addEventListeners" to dynamically change the values (found in the object array) in the form of the tool
+
 **Link(s) to work** [Brazilian New Forest Law](
 https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
@@ -173,7 +175,7 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 **Today's Progress **: API FETCH
 **Thoughts**: re-use the Henri Matisse personal blog to jump into something more challenger
 
-**Link(s) to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt) 
+**Link to work** [fetch - Museum Gallery Art](https://github.com/LiliGuimaraes/MuseumGaleryArt) 
 
 ### Day 28: 26/05/2019
 ##### Oauth2 authentication API Museum Arts Gallery project
@@ -199,4 +201,5 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 ### Day 32: 01/06/2019
 ##### API exercise -know how to use API and, then, create a CRUD - base on [REPROGRAMA - BACKEND COURSE](https://github.com/reprograma/n2-projeto-api)
 **Today's Progress **: Using GET method to list name of women participating in Brazilian society
-**Link(s) to work** [projeto-APIReprograma(https://github.com/LiliGuimaraes/jsapi/tree/master/projeto-api)
+
+**Link(s) to work**[projeto-APIReprograma(https://github.com/LiliGuimaraes/jsapi/tree/master/projeto-api)
