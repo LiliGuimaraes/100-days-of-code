@@ -204,3 +204,10 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 **Link(s) to work** 
 [projeto API](https://github.com/LiliGuimaraes/jsapi/tree/master/projeto-api)
+
+### Day 33: 02/06/2019
+## Node.js and Express.js 
+**Today's Progress**: exercises from [CAELUM CHANNEL- teacher Marco Bruno](https://www.youtube.com/watch?v=4sa5Ojk727c)
+
+**Link(s) to work** 
+[API EXERCISES CAELUM](https://github.com/LiliGuimaraes/jsapi/tree/master/CAELUM-TUTORIAL)
