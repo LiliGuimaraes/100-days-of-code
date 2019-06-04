@@ -211,3 +211,10 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 **Link(s) to work** 
 [API EXERCISES CAELUM](https://github.com/LiliGuimaraes/jsapi/tree/master/CAELUM-TUTORIAL)
+
+### Day 34: 03/06/2019
+## MongoDB
+**Today's Progress**: learn what are the main types of databases (Relational and Non-Relational).Create first mongodb database, through the command line.
+
+**Link(s) to work** 
+[MongoDB exercises - fork from REPROGRAMA repository](https://github.com/LiliGuimaraes/N2-intro-banco-de-dados)
