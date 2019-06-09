@@ -226,3 +226,10 @@ Creation a database reprogram, and a collection called student. Database queries
 
 **Link(s) to work** 
 [MongoDB exercises - fork from REPROGRAMA repository](https://github.com/LiliGuimaraes/N2-intro-banco-de-dados/blob/master/mongoDB_wonderfulWomans.js)
+
+### Day 36: 09/06/2019
+## MongoDB
+**Today's Progress**: First: Learn how to create schemas in MongoDB, then, learn  how to make POST, GET and DELETE in MongoDB use node. Understand the application of some usable dependencies like 'Mongoose', 'Mocha, etc. Use created database "REPROGRAMA" and collection "MARAVILHOSAS" (awesome woman scientist woman in the history) to connect with backend, with node. 
+
+**Link(s) to work** 
+[MongoDB exercises - fork from REPROGRAMA repository](https://github.com/LiliGuimaraes/N2-nodejs-mongodb-s1)
