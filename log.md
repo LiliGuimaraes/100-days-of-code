@@ -218,3 +218,11 @@ https://github.com/LiliGuimaraes/BrazilianNewForestAct)
 
 **Link(s) to work** 
 [MongoDB exercises - fork from REPROGRAMA repository](https://github.com/LiliGuimaraes/N2-intro-banco-de-dados)
+
+### Day 35: 08/06/2019
+## MongoDB
+**Today's Progress**: Installation of Robo 3T (Debian). Creating a connection to the local MongoDB on port 27017.
+Creation a database reprogram, and a collection called student. Database queries (insert, insertMany, update, filters, operators (AND, IN, OR, LIKE, GRATHER_THAN, LESS_THAN).
+
+**Link(s) to work** 
+[MongoDB exercises - fork from REPROGRAMA repository](https://github.com/LiliGuimaraes/N2-intro-banco-de-dados/blob/master/mongoDB_wonderfulWomans.js)
