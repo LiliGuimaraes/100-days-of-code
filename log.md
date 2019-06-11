@@ -230,7 +230,13 @@ Creation a database reprogram, and a collection called student. Database queries
 
 ### Day 37: 10/06/2019
 ## MongoDB and Node.js
-**Today's Progress**: Create an small "geotech-api database" in Mongo to storage geographical information and vegetational information (NDVI index- biomass value common academical use) about restoration forest.
+**Today's Progress**: Create an small "Geotech Restoration Database project" in Mongo to storage geographical information and vegetational information (NDVI index- biomass value common academical use) about restoration forest.
 **Thoughts**:  Although today I have no code, I train an ability to use shortcuts in the text editor (VSCode) and a query on how the information should be in MongoDB. These are two important skills for any developer, so I found it to be valid
 **Link(s) to work** 
-[MongoDB exercises - fork from REPROGRAMA repository](https://github.com/LiliGuimaraes/jsapi/tree/master/GEOTECH-API/JS)
+[[MongoDB exercises -Geotech-database](https://github.com/LiliGuimaraes/geotech-database)
+
+### Day 38: 11/06/2019
+##Geotech Restoration Database project
+**Today's Progress**: creathe schema structure with mongoose. Create node server with express. Update the format of "restoration" database
+**Link(s) to work** 
+[MongoDB exercises -Geotech-database](https://github.com/LiliGuimaraes/geotech-database)
