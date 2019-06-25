@@ -236,19 +236,24 @@ Creation a database reprogram, and a collection called student. Database queries
 [[MongoDB exercises -Geotech-database](https://github.com/LiliGuimaraes/geotech-database)
 
 ### Day 38: 11/06/2019
-##Geotech Restoration Database project
+## Geotech Restoration Database project
 **Today's Progress**: creathe schema structure with mongoose. Create node server with express. Update the format of "restoration" database
 **Link(s) to work** 
 [MongoDB exercises -Geotech-database](https://github.com/LiliGuimaraes/geotech-database)
 
 ### Day 39: 12/06/2019
-##Geotech Restoration Database project
+## Geotech Restoration Database project
 **Today's Progress**: I connected the 'restore' database to node.js, consuming the 'points' collection within the same database. Unfortunately I was unable to do the GET method correctly to consume the data from the database and I do not know how to solve this, STILL ....
 **Link(s) to work** 
-[MongoDB exercises -Geotech-database](https://github.com/LiliGuimaraes/geotech-database)
+[MongoDB exercises - Geotech-database](https://github.com/LiliGuimaraes/geotech-database)
 
 ### Day 40: 14/06/2019
-##Geotech Restoration Database project
+## Geotech Restoration Database project
 **Today's Progress**: EUREKA, I can create an whole interger CRUD by myself!
 **Link(s) to work** 
-[MongoDB exercises -Geotech-database](https://github.com/LiliGuimaraes/geotech-database)
+[MongoDB exercises - Geotech-database](https://github.com/LiliGuimaraes/geotech-database)
+
+### Day 41: 24/06/2019
+## Work with JS in Google Earth Engine
+**Thoughts:** Back to the game after one hole week without coding for travel
+**Today's Progress**: coding function that export in JSON format each graph that I plot after click in a point of an classification map
