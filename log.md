@@ -257,3 +257,15 @@ Creation a database reprogram, and a collection called student. Database queries
 ## Work with JS in Google Earth Engine
 **Thoughts:** Back to the game after one hole week without coding for travel
 **Today's Progress**: coding function that export in JSON format each graph that I plot after click in a point of an classification map
+**Link(s) to work**  I dont have an links to share, because GEE is on the Google CLoud, so I have differents repositories than GITHUB
+
+### Day 42: 25/06/2019
+## Work with JS in Google Earth Engine
+**Thoughts:** I'dont have too much time to personal projects, but I'm still coding in JS using GEE, so .. I think it's count =)
+**Today's Progress**: coding functions the pre-format collections of features (geo-spacial data) before export as in a format GeoJson. It's necessary because I'll need to store a lott of valeus when I'll click on the map and, then, a geo-spatial powerful lib will process calculation of pixels valeus in the satelitte image .. I hope you understand hehe
+**Link(s) to work**  I dont have an links to share, because GEE is on the Google CLoud, so I have differents repositories than GITHUB
+
+### Day 43: 26/06/2019
+## Work with JS in Google Earth Engine
+**Thoughts:** I'dont have too much time to personal projects, but I'm still coding in JS using GEE, so .. I think it's count =)
+**Today's Progress**: Getting in a lott of erros to trying to create random samples inside a image mask from classification about Primary Vegetation and Secundary Vegetation. At the final, I receive a help from another dev from the same project that I work on, and than, I could understand another type of structure and another powerful method of sampling
