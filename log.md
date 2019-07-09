@@ -278,3 +278,8 @@ Creation a database reprogram, and a collection called student. Database queries
 **Link(s) to work** 
 [Array Exercise](https://github.com/LiliGuimaraes/t7-javascript-IV/blob/master/aula01-arrays/aula01-arrays-EuFazendo/main.js)
 
+### Day 45: 09/07/2019
+## Project "comments in news - online newspaper jornal"
+**Today's Progress**: Application to includ comments in news in the online newspaper jornal, that through this page the internauts send text comments and follow another people that is talking about the same subject featured in the page
+**Link(s) to work** Close repo
+
