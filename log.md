@@ -271,7 +271,8 @@ Creation a database reprogram, and a collection called student. Database queries
 **Today's Progress**: Getting in a lott of erros to trying to create random samples inside a image mask from classification about Primary Vegetation and Secundary Vegetation. At the final, I receive a help from another dev from the same project that I work on, and than, I could understand another type of structure and another powerful method of sampling
 
 ### Day 44: 08/07/2019
-## Array Exercise - Reprograma Course- SP.Base on [REPROGRAMA - BACKEND COURSE](https://github.com/reprograma/t7-javascript-IV)
+## Array Exercise - Reprograma Course- SP. 
+##### Base on [REPROGRAMA - BACKEND COURSE](https://github.com/reprograma/t7-javascript-IV)
 **Thoughts:** Back to the game after three weeks of work/personal things travelling
 **Today's Progress**: Given a list of "People", search by name if this person was present or not at an event. I built HTML first. Then in JS, I got the value of the input, and from that I used that value to iterate through the list and check if the name is contained in it. If yes, validated whether the input was empty or not.
 **Link(s) to work** 
