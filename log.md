@@ -283,3 +283,7 @@ Creation a database reprogram, and a collection called student. Database queries
 **Today's Progress**: Application to includ comments in news in the online newspaper jornal, that through this page the internauts send text comments and follow another people that is talking about the same subject featured in the page
 **Link(s) to work** Close repo
 
+### Day 46: 09/07/2019
+## Project "comments in news - online newspaper jornal"
+**Today's Progress**: Trying to code the news page using react.js, but today I'm nt able to focus. I'm too dispersed ...
+**Link(s) to work** Close repo
