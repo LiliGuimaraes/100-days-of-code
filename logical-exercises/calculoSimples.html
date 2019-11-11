@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function calculoSimples(line1, line2) {
+        let inputLines = line1.split(",");
+
+
+        let id = inputLines[0];
+        let qtidade1 = inputLines[1];
+        let valueUnit1 = inputLines[2];
+
+        var totalProd1 = qtidade1 * valueUnit1
+
+        let inputLines2 = line2.split(",");
+        let id2 = inputLines2[0];
+        let qtidade2 = inputLines2[1];
+        let valueUnit2 = inputLines2[2];
+
+        var totalProd2 = qtidade2 * valueUnit2
+
+        var totalCoust = totalProd1 + totalProd2
+
+        return console.warn("VALOR TOTAL: R$ " + `${totalCoust}`);
+      }
+      
+      calculoSimples("10,2,3.5", "11, 2, 10.34");
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
