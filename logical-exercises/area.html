@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function area(lines) {
+          var input = lines.split(",")
+          var readA = parseFloat(input[0])
+          var readB = parseFloat(input[1])
+          var readC = parseFloat(input[2])
+
+          var TRIANGULO = (readB * readC) / 2
+          alert('A área do trinângulo é: ' + TRIANGULO.toFixed(3))
+          var CIRCULO = 3.14 * (readC * 2)
+          alert('A área do círculo é: ' + CIRCULO.toFixed(3))
+          var TRAPEZIO =  ((readA + readB) / 2) * readC
+          alert('A área do trapézio é: ' + TRAPEZIO.toFixed(3))
+          var QUADRADO = readB * readB
+          alert('A área do quadradado é: ' + QUADRADO.toFixed(3))
+          var RETANGULO = readA * readB
+          alert('A área do retangulo é: ' + RETANGULO.toFixed(3))
+        
+      }
+      
+      area('3.5, 10.34, 34.34');
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
