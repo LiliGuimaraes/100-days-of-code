@@ -287,3 +287,9 @@ Creation a database reprogram, and a collection called student. Database queries
 ## Project "comments in news - online newspaper jornal"
 **Today's Progress**: Trying to code the news page using react.js, but today I'm nt able to focus. I'm too dispersed ...
 **Link(s) to work** Close repo
+
+### Day 47: 11/11/2019
+## Back to the game: AGAIN! Its never too late =) "
+**Today's Progress**: Logical Exercises and JS objects
+**Link(s) to work** [URI JUDGE](https://github.com/LiliGuimaraes/100-days-of-code/tree/master/logical-exercises)
+[Course JS NINGA](https://github.com/LiliGuimaraes/100-days-of-code/tree/master/curso-javascript-ninja)
