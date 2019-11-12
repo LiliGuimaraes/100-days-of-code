@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+
+      var ser = {}
+
+      var pessoa = {
+          nome: 'Juliane',
+          sobrenome: 'Aparecida',
+          sexo: 'feminino',
+          idade: 27,
+          altura: 1.62,
+          peso: 54,
+          andando: false,
+          caminhouQuantosMetros: 12
+      };
+
+      pessoa.fazerAniversario = function(){
+          pessoa.idade++;
+      }
+
+
+      pessoa.andar = function(metros){
+          pessoa.caminhouQuantosMetros += metros
+          pessoa.andando = true
+      }
+
+      pessoa.nomeCompleto = function(){
+          return 'Olá! Meu nome é ' + pessoa.nome + ' ' + pessoa.sobrenome
+      }
+
+    pessoa.MostrarIdade = function(){
+        return "Olá! Eu tenho " + pessoa.idade + "anos"
+    }  
+    
+    pessoa.mostrarPeso = function(){
+        return "Eu peso " + pessoa.peso
+    }
+
+
+
+    pessoa.apresentacao = function(){
+        if(pessoa.sexo === 'feminino'){
+            stringSexo = "Olá, eu sou a " + pessoa.nome + " " + pessoa.sobrenome
+        } else {
+            stringSexo = "Olá, eu sou o " + pessoa.nome + " " + pessoa.sobrenome
+        }
+
+        if(pessoa.idade === 1){
+            stringIdade = " tenho " + pessoa.idade + " ano"
+        } else{
+            stringIdade = " tenho " + pessoa.idade + " anos"
+        }
+
+        if(pessoa.caminhouQuantosMetros === 1){
+            stringCaminhou = "eu já caminhei " + pessoa.caminhouQuantosMetros + " metro"
+        } else{
+            stringCaminhou = " eu já caminhei " + pessoa.caminhouQuantosMetros + " metros!"
+        }
+        return stringSexo + stringIdade + ",meço " + pessoa.altura + " de altura, e meu peso é " + pessoa.peso + " kilos. E, apesar de estar acima do peso, " +  stringCaminhou;
+    }
+
+    console.log(pessoa.apresentacao())
+
+    </script>
+  </head>
+  <body></body>
+</html>
