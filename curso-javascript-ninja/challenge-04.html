@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+        var carro = {
+          marca: "Ford",
+          modelo: "Sedan",
+          placa: "ABCD1103",
+          cor: "red",
+          quantasPortas: 4,
+          assentos: 5,
+          quantidadePessoas: 4
+        };
+
+        /*
+        Crie um método que irá adicionar pessoas no carro. Esse método terá as
+        seguintes características:
+        - Ele deverá receber por parâmetro o número de pessoas entrarão no carro. Esse
+        número não precisa encher o carro, você poderá acrescentar as pessoas aos
+        poucos.
+        - O método deve retornar a frase: "Já temos [X] pessoas no carro!"
+        - Se o carro já estiver cheio, com todos os assentos já preenchidos, o método
+        deve retornar a frase: "O carro já está lotado!"
+        - Se ainda houverem lugares no carro, mas a quantidade de pessoas passadas por
+        parâmetro for ultrapassar o limite de assentos do carro, então você deve
+        mostrar quantos assentos ainda podem ser ocupados, com a frase:
+        "Só cabem mais [QUANTIDADE_DE_PESSOAS_QUE_CABEM] pessoas!"
+        - Se couber somente mais uma pessoa, mostrar a palavra "pessoa" no retorno
+        citado acima, no lugar de "pessoas". */
+
+        var addPessoas = function(num) {
+          if (carro.quantidadePessoas < carro.assentos) {
+            if (carro.quantidadePessoas + num > carro.assentos) {
+              return carro.assentos - carro.quantidadePessoas > 1
+                ? console.log("Só cabem mais " +
+                    (carro.assentos - carro.quantidadePessoas) +
+                    " pessoas")
+                : console.log("Só cabe mais " +
+                    (carro.assentos - carro.quantidadePessoas) +
+                    " pessoa");
+            } else {
+              carro.quantidadePessoas += num;
+              return console.log("Já temos " + carro.quantidadePessoas + " pessoas no carro!");
+            }
+          }
+        }
+        else if(num < 0)
+      {
+          if((carro.quantidadePessoas + num) > 1)// + com - dá -
+          {
+              carro.quantidadePessoas += num;
+              return "Já temos " + carro.quantidadePessoas +" pessoas no carro!";
+          }
+          else if((carro.quantidadePessoas + num) === 1)
+          {
+              carro.quantidadePessoas += num;
+              return "Já temos " + carro.quantidadePessoas + " pessoa no carro!";
+          }
+          else
+          {
+              return "Número de pessoas que serão tiradas é maior que o número de pessoas dentro do carro!";
+          }
+      }
+      else if(carro.quantidadePessoas === carro.assentos)
+      {
+          return "O carro já está lotado!";
+      }
+
+        addPessoas(3);
+    </script>
+  </head>
+  <body></body>
+</html>
