@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function CoordenadasPonto(input) {
+          let coordenadas = input.split(",");
+          let x = parseFloat(coordenadas[0])
+          let y = parseFloat(coordenadas[1])
+          
+
+        if (x === 0.0 && y === 0.0) {
+          console.log("ORIGEM");
+        } else if (x < 0.0 && y < 0.0) {
+          console.log("Q3");
+        } else if(x < 0 && y > 0){
+            console.log('Q1')
+        } else if( x > 0 && y < 0){
+            console.log('Q4')
+        } else {
+            console.log("Q2")
+        }
+      }
+
+      CoordenadasPonto("3.5,4.5");
+    </script>
+  </head>
+  <body></body>
+</html>
