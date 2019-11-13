@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head> </head>
+  <body>
+    <h2>URI JUDGE ONLINE - 1066</h2>
+    <p>Digite 5 números inteiros:</p>
+  </br>
+  <p>Primeiro:</p>
+    <input id="numero1" type="text"></p>
+    <p>Segundo:</p>
+    <input id="numero2" type="text"></p>
+    <p>Terceiro:</p>
+    <input id="numero3" type="text"></p>
+    <p>Quarto:</p>
+    <input id="numero4" type="text"></p>
+    <p>Quinto:</p>
+    <input id="numero5" type="text"></p>    
+    <button style=" font-style: oblique;font-family: 'Courier New', Courier, monospace; font-size: 20px; border: solid 4px red; width: 150px; background-color: green;">Resposta</button>
+    <p id="textPar"></p>
+</br>
+<p id="textImpar"></p>
+</br>
+<p id="textPosit"></p>
+</br>
+<p id="textNegat"></p>
+</br>
+    <script type="text/javascript">
+    var button = document.querySelector("button");
+    let textPositivos = " "
+    let textNegativos = " "
+    let textImpares = " "
+    let textPares = " "
+
+    button.onclick = function(){
+        var listArray = [];
+        let value1 = document.querySelector("#numero1");
+        value1 = value1.value
+        listArray.push(value1);
+        let value2 = document.querySelector("#numero2");
+        value2 = value2.value
+        listArray.push(value2)
+        let value3 = document.querySelector("#numero3");
+        value3 = value3.value
+        listArray.push(value3)
+        let value4 = document.querySelector("#numero4");
+        value4 = value4.value
+        listArray.push(value4)
+        let value5 = document.querySelector("#numero5");
+        value5 = value5.value
+        listArray.push(value5)
+
+        console.log(listArray)
+
+        let i = 0
+        let pares = 0
+        let impares = 0
+        let negativos = 0
+        let positivos = 0
+
+        while(i < listArray.length){
+            if(listArray[i] % 2 === 0){
+                pares = pares + 1
+                textPares += pares.length + 'quantidade de elementos pares'
+                document.getElementById("textPar").innerHTML = textPares
+            } else if ( listArray[i] % 2 != 0){
+                impares = impares + 1
+                textImpares += impares.length + 'quantidade de elementos impares'
+                document.getElementById("textImpar").innerHTML = textImpares
+            }
+
+            if(listArray[i] > 0){
+                positivos = positivos + 1
+                textPositivos += positivos.length, 'quantidade de elementos positivos'
+                document.getElementById("textPosit").innerHTML = textPositivos
+            } else if(listArray[i] < 0 ){
+                negativos = negativos + 1
+                textNegativos += negativos.length, 'quantidade de elementos negativos'
+                document.getElementById("textNegat").innerHTML = textNegativos
+            }
+        }
+        i = i + 1
+
+    }
+      
+    </script>
+  </body>
+</html>

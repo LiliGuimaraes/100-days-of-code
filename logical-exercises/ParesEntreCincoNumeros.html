@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function paresEntreCincoNumeros() {
+        var positive = [];
+        for (i = 0; i < arguments.length; i++) {
+          if (arguments[i] %  2 === 0) {
+            positive.push(arguments[i]);
+          }
+        }
+        return positive.length;
+      }
+
+      var x = paresEntreCincoNumeros(7,2,6,4,12);
+      console.log("Os numeros pares entre as cinco opções são : ",x);
+    </script>
+  </head>
+  <body></body>
+</html>
