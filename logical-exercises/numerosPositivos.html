@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function numerosPositivos() {
+        var i;
+        var positive = [];
+        for (i = 0; i < arguments.length; i++) {
+          if (arguments[i] > 0) {
+            positive.push(arguments[i]);
+          }
+        }
+        return positive;
+      }
+      var x = numerosPositivos(7, -5, 6, -3.4, 4.6, -12);
+    </script>
+  </head>
+  <body></body>
+</html>
