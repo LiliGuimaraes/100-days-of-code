@@ -293,3 +293,15 @@ Creation a database reprogram, and a collection called student. Database queries
 **Today's Progress**: Logical Exercises and JS objects
 **Link(s) to work** [URI JUDGE](https://github.com/LiliGuimaraes/100-days-of-code/tree/master/logical-exercises)
 [Course JS NINGA](https://github.com/LiliGuimaraes/100-days-of-code/tree/master/curso-javascript-ninja)
+
+
+### Day 48: 12/11/2019
+## Working in Guaja Cowork by myself
+**Today's Progress**: Course JavaScript Ninja - Car Simple Object Exercise
+**Link(s) to work** [URI JUDGE](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/curso-javascript-ninja/challenge-04.html)
+
+### Day 49: 13/11/2019
+## Working besides my sweet count Simone, in homeoffice day
+**Link(s) to work** [Functions Exercises from course JavaScript Ninja](https://github.com/LiliGuimaraes/100-days-of-code/blob/master/curso-javascript-ninja/challenge-05.html)
+[Course HTML/CSS from CodeCademy](https://github.com/LiliGuimaraes/100-days-of-code/tree/master/recreating-sites/codeAcademy)
+[URI JUDGE](https://github.com/LiliGuimaraes/100-days-of-code/tree/master/logical-exercises)
