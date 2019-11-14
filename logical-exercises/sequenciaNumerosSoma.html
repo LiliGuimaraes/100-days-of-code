@@ -1,0 +1,35 @@
+'<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function sequenciaNumSoma() {
+        let readM = arguments[0];
+        let readN = arguments[1];
+
+        if ((readN && readM) != 0) {
+          var tempArray = [];
+          tempArray.push(readN);
+          tempArray.push(readM);
+          let minorElement = Math.min(...tempArray);
+          let maxElement = Math.max(...tempArray);
+          let reducer = (accumulator, currentValue) =>
+            accumulator + currentValue;
+          let sum = (tempArray.reduce(reducer));
+          let count = [];
+          for (let item = minorElement; item < maxElement; item++) {
+            item = item + 1;
+            count.push(item);
+            console.log(`${minorElement}` + " " + `${item}` + " Sum = " + `${sum}`);
+          }
+        } else {
+          console.log("Valores iguais ou menores que zero nao sao permitidos");
+        }
+      }
+
+      var x = sequenciaNumSoma(6, 4);
+      console.log(x);
+    </script>
+  </head>
+  <body></body>
+</html>
+'
