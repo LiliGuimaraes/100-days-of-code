@@ -1,0 +1,74 @@
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <body>
+                <h2>Calculadora do Professor de Geografia</h2>
+            </br>
+                <p>Digite a nota da primeira prova: </p>
+                <input id="primeira_prova" type="text">
+                </br>
+                <p>Digite a nota da segunda prova: </p>
+                <input id="segunda_prova" text="text">
+                <p>Mensagem de Erro:</p>
+                <p id="messagem_erro"></p>
+            </br>
+            <button style=" font-style: oblique;font-family: 'Courier New', Courier, monospace; font-size: 20px; border: solid 4px red; width: 150px; background-color: green;">Calcular a média</button>
+
+            <p>Valor final da média semestral do aluno:</p>
+            <p  id="media_semestral"></p>
+            </br>
+
+            <p id="novo_calculo"></p>
+            <input id="response"></input>
+            </body>
+
+            <script type="text/javascript">
+
+                let read_primeira_nota = document.getElementById("primeira_prova");
+                read_primeira_nota = read_primeira_nota.value;
+
+                let read_segunda_nota = document.getElementById("segunda_prova");
+                read_segunda_nota = read_segunda_nota.value;
+                
+                let button = document.querySelector("button");
+                let text_calc_median = " ";
+                let text_error_message = " ";
+                let text_show_novo_calculo = " ";
+                let text_show_break = " ";
+                let check_median = false;
+
+                button.onclick = function(){
+                    if((read_primeira_nota > 0) && (read_segunda_nota > 0) && (read_primeira_nota && read_segunda_nota <= 10)){
+                        check_median === true;
+                        let median = (read_primeira_nota + read_segunda_nota) / 2;
+
+                        text_calc_median = "A média das notas desse aluno é " + `${median}` ;
+                        document.getElementById("media_semestral").innerHTML = text_calc_median;
+
+                        if(check_median === true){
+                            text_show_novo_calculo = "Novo Cálculo? 1-SIM / 2-NÃO"
+                            document.getElementById("novo_calculo") = text_show_novo_calculo;
+
+                            let read_response = document.getElementById("response")
+                            read_response = read_response.value;
+
+                            if(read_response === "1"){
+                                // return to the first step
+                            } else{
+                                // break
+                            }
+                            
+                        } else {
+                            text_show_break = "Chega por hoje né? Então vá descansar querido professor ..."
+                            document.getElementById("novo_calculo").innerHTML = text_show_break
+                        }
+                    } else {
+                        text_error_message = "Valores inválidos"
+                        document.getElementById("mensagem_erro")
+                    }
+                }
+                
+
+            </script>
+        </head>
+        </html>
