@@ -1,0 +1,38 @@
+            <!DOCTYPE html>
+            <html>
+            <head></head>
+            </head>
+            <body>
+                <p>URI JUDGE EXERCISE - PUM</p>
+                <input id="number">
+                <button id="create" onclick="pum(document.getElementById('number').value)">Submit</button>
+                <p id="lines" ></p>
+                
+                <script type="text/javascript">
+
+                    let text = " ";        
+                    let button = document.getElementById("create");
+
+                    window.onload = function(){
+                        var teste = function(){
+                            let read = document.getElementById("number").value;
+                            read = Number(read)
+
+                            for(var line=0; line < read; line++){
+                                let Oneline = document.createElement("p");
+                                    for(var i=0; i <= read; i++){
+                                        Oneline.innerHTML = `${i-read}`  + " " + `${i-1}` + " " + `${i}` + " " + `${i+1}` + " " + `${i+2}` + " " + "PUM" + "<br>"
+                                    }
+                                    document.getElementById("lines").appendChild(Oneline)
+                                }                        
+                        }
+                        
+                        document.getElementById("create").onclick = teste
+                    }
+                    
+                    // parece ser uma funcao anonima, pq nao consigo retornar ela?
+                    // porque nao consigo usar return nela?
+                    // por
+            </script>
+            </body>
+            </html>

@@ -1,0 +1,67 @@
+    <!DOCTYPE html>
+    <html>
+    <head></head>
+    </head>
+    <body>
+
+        <h2 style="font-family: 'Times New Roman', Times, serif; justify-content: center; font-size: 14px; color:sienna">
+        Digite o código referente ao tipo de combustível que você quer abastecer o
+        seu automóvel
+        </h2>
+
+        <div>
+                <ul>
+                        <li>
+                            1 - Álcool
+                        </li>
+                        <li>
+                                2 - Gasolina
+                            </li>
+                            <li>
+                                3 - Diesel
+                            </li>
+                            <li>
+                                4 - Fim
+                            </li>
+                    </ul>
+        </div>
+        
+        <input id="input-value" type="text" nale="código"></p>
+        <button id="button" onclick="abastecer(document.getElementById('input-value').value)">abastecer</button>
+
+        <p id="input"></p>
+
+        <script type="text/javascript">        
+        let read_button = document.getElementById("button")
+        button.onclick = function abastecer(typeGas){
+            return console.log(typeGas)
+            let text  = " ";
+            switch(typeGas){
+                case 1 :
+                    typeGas= "Álcool";
+                    text =  "Você escolheu o tipo "  + typeGas;
+                    document.getElementById("input").innerHTML = text
+                    break;
+
+                case 2 :
+                    text = "Você escolheu o tipo "  + typeGas;
+                    document.getElementById("input").innerHTML = text
+                    break;
+
+                case 3:
+                    text = "Você escolheu o tipo "  + typeGas;
+                    document.getElementById("input").innerHTML = text
+                    break;
+
+                case 4:
+                    text = "Você escolheu o tipo "  + typeGas;
+                    document.getElementById("input").innerHTML = text
+                    break;
+                default:
+                typeGas = "Insira um valor válido, sendo: 1, 2, 3 ou 4"
+            }
+        }
+
+     </script>
+    </body>
+    </html>
