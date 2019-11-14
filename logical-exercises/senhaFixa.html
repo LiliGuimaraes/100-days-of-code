@@ -1,0 +1,27 @@
+'<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function senhaFixa(number) {
+        console.log(typeof number);
+        var read_input = number.toString().split("");
+        for (let i = 0; i < read_input.length; i++) {
+          if ((read_input[0] === "2") && (read_input[1] === "0") && (read_input[2] === "0") && (read_input[3] === "2")) {
+                console.log("Senha válida")
+          } else {
+              console.log("Senha inválida")
+          }
+        }
+      }
+      //senhaFixa(2200)
+      //senhaFixa(1020)
+      senhaFixa(2002);
+
+      // quando chamo uma função sem parametro, é sub-entendio tipo restrito "arguments que é do tipo OBJECT
+      // passando parametro definido, ele será do tipo que for passado no momento de invocar a funcao
+      // após splittar um array e percorre-lo com um laço, cada elemento será uma string, e não do tipo passado como argumento
+
+    </script>
+  </head>
+  <body></body>
+</html>
