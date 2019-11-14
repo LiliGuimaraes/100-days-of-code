@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <body></body>
+
+    <script type="text/javascript">
+      function multiploDeTreze(x, y) {
+        var arrayTemp = [];
+        arrayTemp.push(x);
+        arrayTemp.push(y);
+
+
+        for (var i = 0; i < arrayTemp.length; i++) {
+            if(i % 13 != 0){
+                let soma = 0;
+                soma += arrayTemp[i]
+                console.log(soma," a soma dos nao multiplos é")
+            } else {
+                console.log("é multiplo")
+            }
+        }
+      }
+      var x = multiploDeTreze(13, 26);
+    </script>
+  </head>
+</html>
