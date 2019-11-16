@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function taxiDriver(odometroInitial, odometroFinal, liters, totalValue) {
+        let priceLiter = 1.9;
+        let diffKm = odometroFinal - odometroInitial;
+        let avarageGasConsuption = diffKm / liters;
+        let profit = parseFloat(avarageConsuption / totalValue)
+        profit.toFixed(2);
+        console.log(profit)
+        return profit;
+      }
+
+      var x = taxiDriver(0, 30, 20, 200);
+    </script>
+  </head>
+  <body></body>
+</html>

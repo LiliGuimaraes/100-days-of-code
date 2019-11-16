@@ -1,0 +1,42 @@
+            <!DOCTYPE html>
+            <html>
+            <head></head>
+            </head>
+            <body>
+                <p>URI JUDGE EXERCISE - SEQUENCIAS CRESCENTES</p>
+                <p>Digite um número e veja a sua sequencia crescente</p>
+                <input id="number">
+                <button id="create">Crie sequencia de números</button>
+                <p id="lines"></p>
+                
+                <script type="text/javascript">
+
+                    let button = document.getElementById("create");
+
+                    window.onload = function(){
+                        let sequencie = function(){
+                            let readInput = document.getElementById("number").value;
+                            readInput = Number(readInput)
+                            let text = " ";
+                            let num = 1;
+
+                            if(num === 0){
+                                text = "Valor igual a zero nao tem decréscimo e nem acréscimo"
+                                let message_error = document.getElementById("lines")
+                                document.body.appendChild(message_error)
+                            }
+
+                            while(num < readInput){
+                            let newSequencie = document.createElement("p");
+                                newSequencie.innerHTML = num;
+                                num++
+                                document.getElementById("lines").appendChild(newSequencie)
+                            }
+                        }
+
+                        document.getElementById("create").onclick = sequencie
+                    }
+                        
+            </script>
+            </body>
+            </html>
