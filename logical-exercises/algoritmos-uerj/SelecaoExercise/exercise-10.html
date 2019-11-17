@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function growingList(x, y, z) {
+        let tempArray = [];
+        tempArray.push(x);
+        tempArray.push(y);
+        tempArray.push(z);
+
+        console.log(tempArray);
+        for (let i = 0; i < tempArray.length; i++) {
+          let grow = tempArray.sort();
+          return grow;
+        }
+      }
+
+      var x = growingList(176, 75630,1);
+      console.log(x);
+    </script>
+  </head>
+  <body></body>
+</html>
