@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function originNumber(numberProduct) {
+        switch(numberProduct){
+            case 1:
+                numberProduct = "Sul"
+                console.log("sul")
+                break;
+
+            case 2:
+                numberProduct ="Norte"
+                console.log("norte")
+                break;
+
+            case 3:
+                numberProduct = "Leste"
+                console.log("leste")
+                break;
+
+            case 4:
+                numberProduct = "Oeste"
+                console.log("oeste")
+                break;
+
+            case(5 || 6):
+                numberProduct = "Nordeste"
+                console.log("Nordeste")
+                break;
+
+            case(7 || 8 || 9):
+                numberProduct = "Sudeste"
+                console.log("Sudeste")
+                break;
+
+            case(10):
+                numberProduct = "Centro-Oeste"
+                console.log("Centro-Oeste")
+                break;
+
+            case 11:
+                numberProduct = "Noroeste"
+                console.log("Noroeste")
+                break;
+            
+            case 5:
+                numberProduct = "Importado"
+                console.log("importado")
+                break;
+            }
+        }
+      }
+      var x = originNumber(5)
+      console.log(x)
+    </script>
+  </head>
+  <body></body>
+</html>
