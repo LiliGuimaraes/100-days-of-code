@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function idealWeigth(weigth, height, id) {
+          let feminino  = 1;
+          let masculino = 2;
+          if(feminino){
+            let calcMan = height * 20.8;
+            console.log("The ideal weight for your height is", calcMan.toFixed(2))
+          } else {
+              let calcWoman = height * 22;
+              console.log("The ideal weight for your height is", calcWoman.toFixed(2))
+          }
+
+      }
+
+      var x = idealWeigth(52, 1.60, 1);
+      console.log(x);
+    </script>
+  </head>
+  <body></body>
+</html>
