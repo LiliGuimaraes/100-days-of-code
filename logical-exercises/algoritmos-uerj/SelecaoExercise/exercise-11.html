@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function validPassword(number) {
+        let toArray = number.toString().split("");
+        for (let item = 0; item < toArray.length; item++) {
+          if (
+            toArray[0] === "1" &&
+            toArray[1] === "2" &&
+            toArray[2] === "3" &&
+            toArray[3] === "4"
+          ) {
+            console.log("ACESO PERMITIDO");
+          } else {
+            console.log("ACESSO NEGADO");
+          }
+        }
+      }
+
+      var x = validPassword(1234);
+      console.log(x);
+    </script>
+  </head>
+  <body></body>
+</html>
