@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function years(womanOne, womanTwo, manOne, manTwo) {
+        let tempArrayWoman = [];
+        let tempArrayMan = [];
+        tempArrayWoman.push(womanOne);
+        tempArrayWoman.push(womanTwo);
+
+        tempArrayMan.push(manOne);
+        tempArrayMan.push(manTwo);
+
+        for (let woman = 0; woman < tempArrayWoman.length; woman++) {
+          let sortingYoungestWoman = tempArrayWoman.sort((a, b) => b + a);
+          console.log("A idade das mulheres, começando pelas mais novas é " + sortingYoungestWoman);
+        }
+        for (let man = 0; man < tempArrayMan.length; man++) {
+          let sortingOldestMan = tempArrayMan.sort((a, b) => b - a);
+          console.log("A idade das homens, começando pelos mais velhos é " + sortingOldestMan);
+        }
+
+        let sum = tempArrayMan[0] + tempArrayWoman[0]
+        console.log(sum)
+        let prod = tempArrayWoman[1] * tempArrayWoman[1]
+        console.log(prod)
+      }
+
+      var x = years(12, 24, 33, 47);
+      console.log(x);
+    </script>
+  </head>
+  <body></body>
+</html>
