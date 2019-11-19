@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function descending(x, y, z) {
+        let temArray = [];
+        temArray.push(x);
+        temArray.push(y);
+        temArray.push(z);
+
+        for (let number = 0; number < temArray.length; number++) { 
+          let sorting = temArray.sort((a,b) =>  a - b)
+          console.log(sorting)
+        }
+      }
+      var x = descending(2, 334, 111);
+      console.log(x);
+    </script>
+  </head>
+  <body></body>
+</html>
