@@ -1,0 +1,70 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <body>
+            <h2>Calculadora do Professor de Geografia</h2>
+        </br>
+            <p>Digite a nota da primeira prova: </p>
+            <input id="primeira_prova" type="text">
+            </br>
+            <p>Digite a nota da segunda prova: </p>
+            <input id="segunda_prova" text="text">
+        </br>
+            <p id="mensagem_erro"></p>
+        </br>
+        <button id="create"  style=" font-style: oblique;font-family: 'Courier New', Courier, monospace; font-size: 20px; border: solid 4px red; width: 150px; background-color: green;">Calcular a média</button>
+
+        <p>Valor final da média semestral do aluno :</p>
+        <p  id="media_semestral"></p>
+        </br>
+
+        <p id="novo_calculo"></p>
+        <input id="response"></input>
+        </body>
+
+        <script type="text/javascript">
+                    window.onload = function(){
+                var notes = function(){
+                    let read_primeira_nota = document.getElementById("primeira_prova");
+                    read_primeira_nota = read_primeira_nota.value;
+
+                    let read_segunda_nota = document.getElementById("segunda_prova");
+                    read_segunda_nota = read_segunda_nota.value;
+
+                    if((read_primeira_nota > 0  && (read_segunda_nota > 0)) && ((read_primeira_nota < 10) && (read_segunda_nota < 10))){
+                        let median = Number(read_primeira_nota) + Number(read_segunda_nota) ;
+                        median = median / 2
+                        let median_response = document.getElementById("media_semestral");
+                        median_response.innerHTML = median;
+
+                        if(median >= 6 ){
+                            let msg_calc= "Deseja fazer um novo cálculo? 1-SIM, 2-NÃO"
+                            let new_calc = document.getElementById("novo_calculo")
+                            new_calc.innerHTML = msg_calc
+
+                            let get_input = document.getElementById("response")
+                            get_input = get_input.value;
+                            console.log(get_input)
+
+                            if(get_input === "1"){
+                                console.log("o professor quer refazer o cálculo para um novo aluno")
+
+                            } else {
+                                console.log("o professor quer não quer mais trabalhar")                                
+                            }
+
+                        } 
+                            
+                    }
+                    else {
+                        let msg_error = "As notas devem ser maior do zero e menor do que 10"
+                        let error_response = document.getElementById("mensagem_erro")
+                        error_response.innerHTML = msg_error
+                    }
+                }
+                document.getElementById("create").onclick = notes
+            }
+
+        </script>
+    </head>
+    </html>
