@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function operacoes(x, y, z) {
+        let readX = Math.abs(x);
+        let readY = Math.abs(y);
+          console.log(readX, "readX após conververter number negativo")
+          if (z === 1) {
+            let addition = Math.abs( readX + readY);
+            console.log("O valor da soma dos números é :", addition);
+          } else if (z === 2) {
+            let subtraction = Math.abs( readX - readY);
+            console.log("O valor da subtração dos números é :", subtraction);
+          } else if (z === 3) {
+            let division = Math.abs( readX / readY);
+            console.log("O valor da divisao dos números é :", division);
+          } else {
+            let multiplication = Math.abs( readX * readY);
+            console.log(
+              "O valor da multiplição dos números é :",
+              multiplication
+            );
+          }
+      }
+      var x = operacoes(12, 34, 2);
+      console.log(x);
+    </script>
+  </head>
+  <body></body>
+</html>
