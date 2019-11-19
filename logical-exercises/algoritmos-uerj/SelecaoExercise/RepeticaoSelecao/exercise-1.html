@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      function divisionRepeatUntil(x,y){
+        let count = y
+        while(count > 0){
+            let division = x / count
+            count = count + 1
+        }
+        if(count === 0){
+            console.log("Valor inválido")
+        }
+      }
+
+      var x = divisionRepeatUntil(34, 45)
+      console.log("Repita até: ", x)
+
+      var y = divisionRepeatUntil(34, -5)
+      console.log("Repita até (validação): ", y)
+      
+
+      function divisonWhileDo(x,y){
+        let count = y
+        while(count > 0){
+            let division = x / count
+            console.log(division)
+        }
+
+        if(count < 0){
+            console.log("valor inválido")
+        }
+      }
+      var z = divisonWhileDo(2,22)
+      console.log(z)
+        
+    </script>
+  </head>
+  <body></body>
+</html>
