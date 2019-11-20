@@ -1,36 +1,74 @@
-<!DOCTYPE html>
-<html>
-  <head> </head>
-  <script>
-    function nextLine() {
-      document.write("<br>");
-    }
+  <!DOCTYPE html>
+  <html>
+    <head
+      style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 16px; justify-content: center; color: green"
+    >
+      PARTIDA DE FUTEEEEEEEEEEEBOOOOOOOOOOOL
+    </head>
 
-    function showPhrase(text) {
-      document.write(text);
-      nextLine();
-    }
+    <body></body>
 
-    var passwordCorrent = "teste";
-
-    var guess = 1;
-
-    while (guess <= 3) {
-      passwordMessage = prompt("Informe sua senha");
-
-      if (passwordCorrent === passwordMessage) {
-        showPhrase("ACESSO PERMITIDO após " + guess + " tentativas");
-        break;
-      } else {
-        // reachead the maximum number
-        if (guess === 3) {
-          alert("ACESSO NEGADO");
-          // still trying until the system not leaves
-        } else {
-          alert("ACESSO NEGADO. Tente novamente");
-        }
-        guess++;
+    <script>
+      function nextLine() {
+        document.write("<br>");
       }
-    }
-  </script>
-</html>
+
+      function showPhrase(text) {
+        document.write(text);
+        nextLine();
+      }
+
+      function addInput() {
+        let newParagrah = document.createElement("input");
+        newParagrah.setAttribute("id", "input");
+        document.body.appendChild(newParagrah);
+
+        let new_button = document.createElement('button')
+        new_button.setAttribute('id', 'button')
+        new_button.innerHTML = "RECOMEÇAR A PARTIDA"
+        document.body.appendChild(new_button);
+
+        let get_input = document.getElementById("input");
+        get_input = get_input.value;
+
+        document.getElementById('button').onclick = get_input
+        console.log(get_input)
+
+        nextLine();
+      }
+
+      let guess = 1;
+      while (guess <= 3) {
+        let goalsInter = prompt("Quantos gols o INTER marcou?");
+        let goalsGremio = prompt("Quantos gols o GREMIO marcou?");
+
+        if (goalsInter > goalsGremio) {
+          showPhrase("INTER GANHOU. Marcando " + goalsInter + " gols");
+          nextLine();
+          showPhrase("NOVA PARTIDA? 1-SIM, 2-NÃO");
+          addInput();
+          break;
+        } else if (goalsInter < goalsGremio) {
+          showPhrase("GRÊMIO GANHOU. Marcando " + goalsGremio + " gols");
+          nextLine();
+          showPhrase("NOVA PARTIDA? 1-SIM, 2-NÃO");
+          addInput();
+          break;
+        } else {
+          showPhrase("EMPATE");
+          nextLine();
+          showPhrase("NOVA PARTIDA? 1-SIM, 2-NÃO");
+          addInput();
+          break;
+
+          if (guess === 3) {
+            alert("VALORES INVÁLIDOS. TENTATIVAS DE REGISTRO ATINGIDAS");
+            // still trying until the system not leaves
+          } else {
+            alert("VALORES INVÁLIDOSTente novamente");
+          }
+          guess++;
+        }
+      }
+    </script>
+  </html>

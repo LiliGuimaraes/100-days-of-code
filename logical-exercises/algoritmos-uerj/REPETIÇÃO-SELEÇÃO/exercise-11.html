@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head> </head>
+  <script>
+    function nextLine() {
+      document.write("<br>");
+    }
+
+    function showPhrase(text) {
+      document.write(text);
+      nextLine();
+    }
+
+    var passwordCorrent = "teste";
+
+    var guess = 1;
+
+    while (guess <= 3) {
+      passwordMessage = prompt("Informe sua senha");
+
+      if (passwordCorrent === passwordMessage) {
+        showPhrase("ACESSO PERMITIDO após " + guess + " tentativas");
+        break;
+      } else {
+        // reachead the maximum number
+        if (guess === 3) {
+          alert("ACESSO NEGADO");
+          // still trying until the system not leaves
+        } else {
+          alert("ACESSO NEGADO. Tente novamente");
+        }
+        guess++;
+      }
+    }
+  </script>
+</html>
