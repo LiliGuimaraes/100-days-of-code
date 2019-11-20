@@ -3870,7 +3870,7 @@ function (_Node) {
         }
       }
 
-      this.numerator.sort();
+      this.numerator.);
       this.denominator.sort();
     }
   }]);

@@ -19,19 +19,25 @@
       }
 
       function addInput() {
+        // cria um elemento de input para digitar 1-SIM, 2-NAO
         let newParagrah = document.createElement("input");
         newParagrah.setAttribute("id", "input");
         document.body.appendChild(newParagrah);
 
+        // cria um botao para recarregar as perguntas novamente
         let new_button = document.createElement('button')
         new_button.setAttribute('id', 'button')
         new_button.innerHTML = "RECOMEÇAR A PARTIDA"
         document.body.appendChild(new_button);
 
+        // pega o valor digitado no input .... 
         let get_input = document.getElementById("input");
         get_input = get_input.value;
+        console.log(get_input)
 
+        // .. após o clique
         document.getElementById('button').onclick = get_input
+        
         console.log(get_input)
 
         nextLine();

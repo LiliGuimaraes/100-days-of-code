@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head
+    style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 16px; justify-content: center; color: green"
+  >
+    MISS BRASIL
+  </head>
+
+  <body></body>
+
+  <script>
+    function nextLine() {
+      document.write("<br>");
+    }
+
+    function showPhrase(text) {
+      document.write(text);
+      nextLine();
+    }
+
+    let fisishKeyWord = "FIM";
+    let nameCandidate = prompt("Qual o nome da candidata?");
+    let heigthCandidate = prompt("E qual a sua altura?");
+    let count = 1;
+    let tempArray = [];
+
+    while (count <= 3){
+        if(nameCandidate != fisishKeyWord) {
+
+            count = count++;
+            console.log(count);
+            
+            let beguining = prompt("Novo cadastro de candidata no concurso")
+            let new_message = prompt("Qual o nome da candidata?");
+            let new_msg_heigth = prompt("Qual a altura da candidata?");
+            tempArray.push(nameCandidate);
+            tempArray.push(heigthCandidate);
+            console.log(tempArray);
+            break;
+
+        } else {
+            for(let candidata=0; candidata < tempArray.length; candidata++){
+                if()){
+                    let message_finish = prompt(fisishKeyWord)
+                    console.warn("O nome da candidata mais alta é: " + )
+                } else{
+
+                }
+            } 
+
+            let end_system = alert("Cadastro Finalizado")
+        }
+    }
+
+    // if (nameCandidate === fisishKeyWord) {
+
+    //     showPhrase(nameCandidate + " " + heigthCandidate);
+    //     nextLine();
+    //     showPhrase("A candidata mais alta é " + );
+    //     break;
+    //   } else {
+    //     showPhrase("EMPATE");
+    //     nextLine();
+    //     showPhrase("NOVA PARTIDA? 1-SIM, 2-NÃO");
+    //     addInput();
+    //     break;
+    // }
+  </script>
+</html>
