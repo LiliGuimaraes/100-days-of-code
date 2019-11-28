@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>
+      Aquele do uso de variaveis globais e de escopo em funções dentro de
+      objetos...
+    </h1>
+    <script type="text/javascript">
+      var foo = {
+        x: 1,
+        getX: function() {
+          return this.x;
+        }
+      };
+      console.log(foo.getX(15)); //1
+
+      var bar = {
+        x: 2,
+        getX: function() {
+          return foo.x;
+        }
+      };
+      console.log(bar.getX(15)); //1
+
+
+      var baz = {
+        x: 3,
+        getX: function() {
+          return bar.x;
+        }
+      };
+      console.log(baz.getX(15)); //2
+
+
+
+      var boo = {
+        x: 4,
+        getX: function() {
+          return baz.x;
+        }
+      };
+      console.log(boo.getX(15)); //3
+
+    </script>
+  </head>
+  <body></body>
+</html>

@@ -1,36 +1,29 @@
 <!DOCTYPE html>
 <html>
   <head>
+      <h1>Aquele do uso de variaveis globais e de escopo em funções dentro de objtos...</h1>
     <script type="text/javascript">
-    //   x = 5;
-    //   const objA = {
-    //     x: 10,
-    //     getX1: x => {
-    //       return this.x;
-    //     },
-    //     getX2: function(x) {
-    //       return this.x;
-    //     }
-    //   };
+      x = 5;
+      const objA = {
+        x: 10,
+        getX1: x => {
+          return this.x;
+        },
+        getX2: function(x) {
+          return this.x;
+        }
+      };
 
-    //   const objB = {
-    //     x: 20,
-    //     getX1: objA.getX1,
-    //     getX2: objA.getX2
-    //   };
+      const objB = {
+        x: 20,
+        getX1: objA.getX1,
+        getX2: objA.getX2
+      };
 
-    //   console.log(objA.getX1(30)); // 5
-    //   console.log(objA.getX2(30)); //10
-    //   console.log(objB.getX1(30)); // 5
-    //   console.log(objB.getX2(30)); //20
-
-    function f1(n){
-        var x = 1;
-        var x = n;
-        console.log(x);
-    }
-
-    f1(10);
+      console.log(objA.getX1(30)); // 5
+      console.log(objA.getX2(30)); //10
+      console.log(objB.getX1(30)); // 5
+      console.log(objB.getX2(30)); //20
     </script>
   </head>
   <body></body>
