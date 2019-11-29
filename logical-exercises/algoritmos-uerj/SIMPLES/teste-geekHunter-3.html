@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>Aquele do loop dentro de um objeto</h1>
+  </head>
+  <script type="text/javascript">
+    var persons = [
+      { name: "John" },
+      { name: "Joe" },
+      { name: "Jessica" },
+      { name: "Paul" }
+    ];
+    console.log(persons.length);
+
+    for (var i = 0; i < persons.length; i++) {
+      let imprime2 = function() {
+        return "My name is " + persons[i].name;
+      };
+      let greet = imprime(persons[i].name) 
+    }
+
+    
+  </script>
+  <body></body>
+</html>
