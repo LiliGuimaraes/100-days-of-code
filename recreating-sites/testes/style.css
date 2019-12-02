@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    max-width: 1000px;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: fit-content;
+    maxheight: 340px;
+}
