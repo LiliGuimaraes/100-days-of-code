@@ -39,7 +39,7 @@ var usuario3 = {
 console.log(usuario3.cor);
 console.log(usuario3.idade);
 
-// COMO FAZER MERGE DE UM OU MAIS  OBJETOS:
+// COMO FAZER MERGE DE UM OU MAIS OBJETOS:
 
 var usuario4 = {
   nome: "Ayrton",
