@@ -19,4 +19,4 @@ while mais != 0:
         cont += 1
     print('PAUSA')
     mais = int(input("Quantos números você quer mostrar a mais?\n"))
-print("Finalizamos o programa com {} termos".format(total)))
+print("Finalizamos o programa com {} termos".format(total))
