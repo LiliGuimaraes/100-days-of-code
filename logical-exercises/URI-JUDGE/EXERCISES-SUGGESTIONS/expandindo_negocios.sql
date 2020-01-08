@@ -1,0 +1,6 @@
+CREATE TABLE customers(
+    id INT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    street VARCHAR(100) NOT NULL,
+    city VARCHAR(100) NOT NULL
+)
